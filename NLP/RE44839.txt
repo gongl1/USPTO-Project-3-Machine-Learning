@@ -1,0 +1,127 @@
+Claims (59)
+Hide Dependent 
+What is claimed is:
+1. A collapsible lever including:
+a first section pivotally attached to a pivot base defining a first axis of rotation at a first pivot;
+a second section pivotally attached to the first section at a second pivot defining a second axis of rotation;
+a third section pivotally attached to the second portion section at a third pivot defining a third axis of rotation;
+said first, second, and third sections forming an elongate member defining an operational position for the lever; and
+said second and third pivots each including a biasing regulator for basing the first, second, and third sections in the operational position of the lever.
+2. The lever of claim 1, wherein when the lever is in its operational position said first axis of rotation and said third axis of rotation are parallel to each other and said second axis of rotation is perpendicular to said first axis of rotation.
+3. The lever of claim 2, wherein
+said first pivot includes a defined stop beyond which the first section will not rotate about the first axis of rotation defining a first range of movement for the first section;
+said third pivot includes a second defined stop beyond which the third section will not rotate about the third axis of rotation; and
+said first and second defined stops positioned at the operational position of the lever such that the third section will not pivot in the same direction as the first section when the first section is within the first range of movement, thereby allowing the first, second, and third sections to pivot about the first axis of rotation as an elongate substantially rigid member.
+4. The lever of claim 3, wherein said second member may pivot about said second axis of rotation and said third member may pivot about said third axis of rotation deflecting the lever from the operational position upon application of an impact force.
+5. The lever of claim 1, wherein at least one of said pivots is a swivel pivot.
+6. The lever of claim 5, wherein said swivel pivot is sealed to protect it from contamination when the lever is in its operational position.
+7. A collapsible lever including;
+a first section pivotally attached to a pivot base defining a first axis of rotation at a first pivot;
+a second section pivotally attached to the first section at a second pivot defining a second axis of rotation;
+a third section pivotally attached to the second portion section at a third pivot defining a third axis of rotation;
+said first, second, and third sections forming an elongate member defining an operational position for the lever;
+said second and third pivots each including a biasing regulator for biasing the first, second, and third sections in the operational position of the lever; and
+at least one of the said pivots including:
+a first frame portion having a first sliding surface;
+a second frame portion having a second sliding surface;
+said first and second frame portions being sized and shaped to rotate about a pivot shaft with said first sliding surface sliding against said second sliding surface during rotation;
+said first and second sliding surfaces each having a smoothly alternating concave and convex shape that tightly intermesh with each other when the lever is in its operational position; and
+means for biasing said first and second sliding surfaces to tightly intermesh with each other.
+8. The lever of claim 7, wherein said means for biasing includes:
+said shaft having a head at one end and an opposite end and being operably held to said first frame portion by said head;
+said second frame portion having a radial chamber for receiving the shaft there through and a spring therein;
+a cap secured to said opposite end of said shaft; and
+said spring extending between said second frame portion within said chamber and said cap and thereby urging said first frame portion toward said second frame portion.
+9. The lever of claim 1, wherein at least one said pivot is a hinge pivot.
+10. The lever of claim 1, wherein at least one pivot includes:
+a U-shaped base having a first pivot hole;
+a pivoting member having a second pivot hole operably received within said U-shaped base; and
+a pivot pin extending through said first and second pivot holes.
+11. The lever of claim 10, wherein said biasing regulator includes a spring operably secured between said U-shaped member and said pivoting member to bias said pivoting member to a neutral position.
+12. The lever of claim 1, wherein said first member is adapted to be operably connected to a cable of a cable lever control system.
+13. The lever of claim 12, wherein the cable lever control system is a brake system on a cycle.
+14. The lever of claim 12, wherein the cable lever control system is a clutch system on a cycle.
+15. A pivot for use on a collapsible lever comprising:
+an elongate lever having a first pivot and a second pivot operably secured thereto, at least one of said first and said second pivot having:
+a first frame portion having a first sliding surface;
+a second frame portion having a second sliding surface;
+said first and second frame portions being sized and shaped to rotate about a pivot shaft with said first sliding surface sliding against said second sliding surface during rotation;
+said first and second sliding surfaces each having a smoothly alternating concave and convex shape that tightly intermesh with each other when the lever is in an operational position; and
+means for biasing said first and second sliding surfaces to tightly intermesh with each other.
+16. The pivot of claim 15, wherein said means for biasing includes:
+said shaft having a head at one end and an opposite end and being operably held to said first frame portion by said head;
+said second frame portion having a radial chamber for receiving the shaft there through and a spring therein;
+a cap secured to said opposite end of said shaft; and
+said spring extending between said second frame portion within said chamber and said cap and thereby urging said first frame portion toward said second frame portion.
+17. The lever of claim 7, wherein
+said first pivot includes a defined stop beyond which the first section will not rotate about the first axis of rotation defining a first range of movement for the first section;
+said third pivot includes a second defined stop beyond which the third section will not rotate about the third axis of rotation; and
+said first and second defined stops positioned at the operational position of the lever such that the third section will not pivot in the same direction as the first section when the first section is within the first range of movement, thereby allowing the first, second, and third sections to pivot about the first axis of rotation as an elongate substantially rigid member.
+18. The lever of claim 17, wherein said second member section may pivot about said second axis of rotation and said third member section may pivot about said third axis of rotation deflecting the lever from the operational position upon application of an impact force.
+19. A collapsible lever for mounting to a pivot base, extending from an elongate handle, the collapsible lever having:
+a first section pivotally attached to the pivot base at a first pivot defining a first axis of rotation;
+an elongate second section pivotally attached to the first section at at least a second pivot defining a second axis of rotation;
+said first and second sections forming an elongate member with a distal end opposite said first pivot thereby defining an operational position of the lever with said first and second sections biased to said operational position;
+said first and second sections movable as a substantially rigid elongate member about said first pivot in a direction toward said elongate handle; and,
+said first and second pivots aligned substantially perpendicular to the longitudinal centerline of said elongate member so that said elongate second section is pivotable about said at least second pivot to move said distal end in a direction away from the elongate handle when said elongate second section is inadvertently impacted.
+20. The collapsible lever of claim 19, wherein said first and second axes of rotation are parallel to each other.
+21. The collapsible lever of claim 20, wherein said first and second axes of rotation are spaced-apart from each other.
+22. The collapsible lever of claim 19, wherein said first and second axes of rotation are substantially perpendicular to each other.
+23. The collapsible lever of claim 22, wherein said first and second axes of rotation are spaced-apart from each other.
+24. The lever of claim 19, further including:
+a defined stop operably secured to the first section to limit movement of the first section defining a first range of movement for the first section;
+a second defined stop operably extending between said first and second sections to limit movement of said second section relative to said first section about said at least a second pivot; and,
+said first and second defined stops positioned at the operational position of the lever such that the second section will not pivot in the same direction as the first section when the first section is within the first range of movement, thereby allowing said elongate member to pivot about the first axis of rotation as an elongate substantially rigid member.
+25. The lever of claim 24, wherein said second section pivots about said second axis of rotation deflecting the lever from the operational position upon application of an impact force.
+26. The lever of claim 24, wherein said lever is operably secured near an end portion of a handle bar, and said first range of movement includes pivoting said elongate substantially rigid member about said first pivot toward the end portion.
+27. The lever of claim 25, wherein said second section pivots about said second pivot away from the end portion upon application of an impact force.
+28. The lever of claim 19, wherein at least one of said pivots is a swivel pivot.
+29. The lever of claim 26, wherein said second pivot is sealed to protect it from contamination when the lever is in its operational position.
+30. The lever of claim 19, wherein at least one said pivot is a hinge pivot.
+31. The lever of claim 19, wherein one pivot of said first and at least a second pivots includes:
+a U-shaped having a first pivot hole;
+a pivoting member having a second pivot hole operably received within said U-shaped frame; and,
+a pivot pin extending through said first and second pivot holes.
+32. The lever of claim 19, further including a spring operably secured to said first and second sections to bias said first and second sections to said operational position.
+33. A collapsible lever for mounting to the pivot base of a handle bar near the end portion of the handle bar, said lever comprising:
+a first section pivotally attached to the pivot base defining a first axis of rotation; and,
+a second section having a first end and an opposite second end, said second section pivotally attached to the first section toward said first end defining at least a second pivot and at least a second axis of rotation,
+said first and second sections forming an elongate member thereby defining an operational position of the lever with said first and second sections biased to said operational position;
+said first and second sections movable as a substantially rigid member about said first pivot in a direction toward the end portion of the handle bar; and,
+said at least a second axis of rotation aligned so that the second section is pivotable about said at least a second pivot to move said second end away from the end portion of the handle bar when said second section is inadvertently impacted.
+34. The collapsible lever of claim 33, wherein said first and second axes of rotation are parallel to each other.
+35. The collapsible lever of claim 34, wherein said first and second axes of rotation are spaced-apart from each other.
+36. The collapsible lever of claim 33, wherein said first and second axes of rotation are substantially perpendicular to each other.
+37. The collapsible lever of claim 36, wherein said first and second axes of rotation are spaced-apart from each other.
+38. A collapsible lever for mounting to a pivot base operably secured to a lever-actuated cable of a control system, the collapsible lever having:
+a first section pivotally attached to the pivot base at a first pivot defining a first axis of rotation, said first section operably secured to the cable such that pivoting said first section in a defined direction about said first pivot actuates the cable; and,
+a second section pivotally attached to the first section at at least a second pivot defining a second axis of rotation;
+said first and second sections forming an elongate member to define an operational position of the lever with said first and second sections biased to said operational position;
+said first and second sections movable as a substantially rigid member about said first pivot in a defined first direction;
+said second axis of rotation intersecting said elongate member;
+a defined stop operably secured between said first and second sections and positioned at the operational position of the lever such that the second section will not pivot about the at least a second pivot in the same direction as the first section when the first section is pivoted about the first pivot in the defined direction of movement thereby allowing said first and second sections to move as a substantially rigid member about said first pivot in said defined first direction to actuate the cable; and,
+said second section pivotable about said at least a second pivot in a defined section direction away from said defined first direction when said second section is inadvertently impacted.
+39. The lever of claim 38, wherein said second section may pivot about said second axis of rotation in a different direction from said defined first direction of movement thereby deflecting the second section from the operational position upon application of an impact force.
+40. The lever of claim 38, wherein said first and second axes of rotation are aligned substantially perpendicular to said elongate member.
+41. The collapsible lever of claim 38, wherein said first and second axes of rotation are parallel to each other.
+42. The collapsible lever of claim 41, wherein said first and second axes of rotation are spaced-apart from each other.
+43. The collapsible lever of claim 38, wherein said first and second axes of rotation are substantially perpendicular to each other.
+44. The collapsible lever of claim 43, wherein said first and second axes of rotation are spaced-apart from each other.
+45. The lever of claim 38, wherein at least one of said pivots is a swivel pivot.
+46. The lever of claim 45, wherein said swivel pivot is sealed to protect it from contamination when the lever is in its operational position.
+47. The lever of claim 38, wherein at least one said pivots is a hinge pivot.
+48. The lever of claim 47, wherein one pivot of said first and at least a second pivot includes:
+a U-shaped frame having a first pivot hole;
+a pivoting member having a second pivot hole operably received within said U-shaped frame; and,
+a pivot pin extending through said first and second pivot holes.
+49. The collapsible lever of claim 1, wherein said second axis of rotation has a range of motion greater than 90 degrees.
+50. The collapsible lever of claim 49, wherein said range of motion is greater than 145 degrees.
+51. The pivot of claim 15, wherein said at least one of said first and second pivots has a range of movement greater than 90 degrees.
+52. The pivot of claim 51, wherein said range of movement is greater than 145 degrees.
+53. The collapsible lever for mounting to a pivot base of claim 19, wherein said at least a second pivot has a range of motion greater than 90 degrees.
+54. The collapsible lever for mounting a pivot base of claim 19, wherein said second section is pivotable about said at least a second pivot by a pivot angle more than 90 degrees from said operational position.
+55. The collapsible lever for mounting a pivot base of claim 54, wherein said pivot angle is more than 145 degrees.
+56. The collapsible lever for mounting to a pivot base of claim 33, wherein said second section is pivotable about said at least said second pivot to define a range of movement of at least 90 degrees.
+57. The collapsible lever for mounting to a pivot base of claim 56, wherein said range of movement is at least 155 degrees.
+58. The collapsible lever of claim 38, wherein said second section is pivotable about said at least said second pivot throughout a range of movement in said defined second direction of at least 90 degrees from said operational position.
+59. The collapsible lever of claim 58, wherein aid range of motion is at least 155 degrees.

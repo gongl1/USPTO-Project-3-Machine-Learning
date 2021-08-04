@@ -1,0 +1,21 @@
+Claims (8)
+Hide Dependent 
+I claim:
+1. An assembly, comprising in combination:
+a. a first nut portion having an internal thread;
+b. a second nut portion having an internal thread;
+c. retaining means for retaining said first nut portion and said second nut portion in a fixed non-radially rotatable aligned position with respect to each other on a threaded screw; and,
+d. spacer means between said first and second nut portions and rotatably mounted on said retaining means; and,
+e. biasing means causing the spacer means to react to any slack between opposing nut portions and axially rotate against at least one surface of one nut portion.
+2. A nut assembly of claim 1 wherein the biasing means is a torsion spring having a tang on each end of the spring, one of which is inserted in said spacer means and the other tang is inserted in said retaining means.
+3. An anti-backlash nut assembly of claim 1 wherein the nut portions comprise left and right axially-split nut portions.
+4. An anti-backlash nut assembly of claim 1 wherein an elastomeric washer is provided intermediate the spacer means and the .[.retaining means.]. .Iadd.said one surface of one nut portion. .Iaddend.
+5. An anti-backlash nut and screw assembly in which the nut is designed to undergo translational movement along the screw, said screw having an external thread thereon, the movement of the nut being in response to relative rotational movement between the nut assembly and screw, comprising, in combination:
+a. a first portion of said nut having an internal thread complementary to the external thread of said screw;
+b. a second portion of said nut, also having an internal thread complementary to the external thread of said screw;
+c. retaining means for retaining said first portion and said second portion of the nut in a non-radially rotatable aligned position around said screw to enable the internal threads of said nut portions to engage with the external threads of said screw;
+d. spacer means adapted to move with respect to the first and second nut portions; and,
+e. biasing means for causing the spacer means to rotate on the retaining means about the screw axis and abut a surface of one of the nut portions and take up any slack between opposing nut portions which may occur from wear of the screw surfaces of the nut or screw.
+6. An anti-backlash nut assembly of claim 5 wherein the spacer means has an internal thread which mates with external threads on said retaining means.
+7. An anti-backlash nut assembly of claim 5 wherein said first and said second portions are restrained from torsional movement by a bar member interfitted into grooves on opposing portions of the nut.
+8. An anti-backlash nut assembly of claim 5 in which the first portion of the nut has a non-circular outer surface which interfits with a corresponding non-circular inner surface of the second nut portion.

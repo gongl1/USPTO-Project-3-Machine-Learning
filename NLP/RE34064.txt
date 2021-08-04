@@ -1,0 +1,72 @@
+Claims (26)
+Hide Dependent 
+We claim:
+1. An electric shift apparatus for use with a motor vehicle having an automatic transmission of the type including a mode select lever and a kick-down lever positioned outside of the transmission housing and mounted for pivotal movement at one end thereof about a common axis, said apparatus comprising:
+(A) a bracket adapted to be secured to said transmission housing proximate said levers;
+(B) first motor means mounted on said bracket and adapted to be drivingly connected to the free end of the mode select lever; and
+(C) second motor means mounted on said bracket and adapted to be drivingly connected to the free end of the kick-down lever.
+2. An electric shift apparatus according to claim 1 wherein:
+(D) said first motor means is an electric motor assembly.
+3. An electric shift apparatus according to claim 2 wherein:
+(E) said electric motor assembly includes a DC motor, a speed reduction unit coupled to the output shaft of said DC motor, and lever means interconnecting the output shaft of said speed reduction unit to the free end of the mode select lever.
+4. An electric shift apparatus according to claim 3 wherein:
+(F) said lever means comprises a first lever connected at one end thereof to said output shaft of said speed reduction unit and a second lever connected at one end thereof to the other end of said first lever and adapted to be connected at its free end to the mode select lever.
+5. An electric shift apparatus according to claim 4 wherein:
+(G) said second lever includes two lever sections selectively movable axially relative to each other to selectively vary the effective length of said second lever.
+6. An electric shift apparatus according to claim 4 wherein:
+(G) said free end of said second lever includes a snap fitting for a snap connection to the free end of the mode select lever.
+7. An electric shift apparatus according to claim 2 wherein:
+(E) said second motor means is a solenoid.
+8. An electric shift apparatus according to claim 7 wherein:
+(F) said bracket is adapted to be positioned generally vertically at one side of the transmission housing in laterally spaced relation to the transmission housing;
+(G) said solenoid is mounted on the inboard side of said bracket so as to be positioned between said bracket and said transmission housing; and
+(H) said motor assembly is mounted on the outboard side of said bracket.
+9. An electric shift apparatus according to claim 8 wherein:
+(I) said motor assembly includes a DC motor, a speed reduction unit coupled to the output shaft of said DC motor, and lever means interconnecting the output shaft of said speed reduction unit and the free end of the mode select lever.
+10. An electric shaft apparatus according to claim 9 wherein:
+(J) said DC motor is positioned on the outboard side of said bracket;
+(K) said speed reduction unit is positioned on the outboard side of said bracket with its output shaft extending inboard to the inboard side of said bracket; and
+(L) said lever means is connected at one end thereof to said speed reducer output shaft at the inboard side of said bracket.
+11. An electric shift apparatus according to claim 10 wherein:
+(M) said lever means comprises a first lever connected at one end thereof to said output shaft of said speed reduction unit and a second lever connected at one end thereof to the other end of said first lever and adapted to be connected at its free end to the mode select lever.
+12. An electric shift apparatus according to claim 10 wherein said second lever includes two lever sections selectively movable axially relative to each other to vary the effective length of said second lever.
+13. An electric shift apparatus according to claim 12 wherein:
+(O) said free end of said second lever includes a snap fitting for snap connection to the free end of the mode select lever.
+14. An electric shift apparatus for use with a motor vehicle having an automatic transmission of the type including a mode select lever and a kick down lever positioned on but outside of the transmission housing and mounted for pivotal movement at one end thereof about a common axis, said apparatus comprising:
+(A) first control means accessible to an operator positioned in the passenger compartment of the motor vehicle and operative to generate a plurality of first electrical control signals;
+(B) second control means accessible to an operator positioned in the passenger compartment of the motor vehicle and operative to generate a second electric control signal; and
+(C) a power module adapted to be mounted on said transmission housing proximate said levers and operative in response to receipt of said first electrical signals to selectively move said mode select lever and operative in response to receipt of said second electrical signal to selectively move said kick-down lever.
+15. An electric shift apparatus according to claim 14 wherein:
+(E) said power module includes an electric motor assembly operative in response to receipt of said first electrical signals to selectively move said mode select lever and a solenoid operative in response to receipt of said second electrical signal to selectively move said kick-down lever.
+16. An apparatus according to claim 15 wherein:
+(F) said first control means includes a control module adapted to be mounted in the passenger compartment of the vehicle and including a plurality of mode select members operative to respectively generate said first electrical control signals.
+17. An apparatus according to claim 16 wherein:
+(G) said second control means includes means operative to generate said second electrical signal in response to total operator depression of the accelerator pedal of the vehicle.
+18. An electric shift apparatus for use with a motor vehicle having an automatic transmission of the type including a mode select .[.lever.]. .Iadd.element .Iaddend.to selectively shift the transmission between a plurality of shift positions, said apparatus comprising:
+(A) a power module adapted to be mounted on the housing of the transmission proximate the mode select .[.lever.]. .Iadd.element .Iaddend.and including an electric motor assembly adapted to be drivingly connected to the mode select .[.lever.]. .Iadd.element .Iaddend.and encoder means operative to sense the shift position of the transmission and generate an encoder signal representative of the sensed shift position;
+(B) a control module adapted to be mounted in the passenger compartment of the vehicle and including a plurality of mode select members accessible to the vehicle operator and corresponding respectively to the transmission shift positions, and generator means operative in response to operator actuation of each mode select member to generate an operator signal representative of the selected shift position; and
+(C) comparator means receiving said encoder signal and said operator signals, operative in response to receipt of an operator signal differing from the received encoder signal to energize said motor assembly in a sense to move the mode select .[.lever.]. .Iadd.element .Iaddend.to a position corresponding to the operator signal, and operative in response to arrival of the mode select .[.lever.]. .Iadd.element .Iaddend.in the selected position to de-energize and brake said motor assembly.
+19. An electric shift apparatus according to claim 18 wherein:
+(D) said comparator means forms a physical part of said control module.
+20. An apparatus according to claim 19 wherein:
+(E) said module includes a housing structure defining a front face;
+(F) each of said mode select members comprises a push button mounted in said front face of said housing structure;
+(G) said generator means is operative to generate a respective operator signal in response to depression of a respective push button; and
+(H) said comparator means are positioned in said housing structure rearwardly of said push buttons.
+21. An apparatus according to claim 18 wherein
+(D) said motor assembly comprises an electric motor, a speed reduction unit coupled to the output shaft of said motor, and lever means connected at one end thereof to the output shaft of said speed reduction unit and adapted to be connected at the other end thereof to said mode select .[.lever; .]. .Iadd.element .Iaddend.and
+(E) said encoder means includes an encoder member mounted on said power module and selectively movable in response to actuation of said motor.
+22. An apparatus according to claim 21 wherein:
+(F) said encoder member comprises an encoder wheel mounted on said output shaft of said speed reduction unit.
+23. An apparatus according to claim 22 wherein
+(G) said speed reduction unit includes a housing defining a sealed, interior chamber;
+(H) said encoder wheel is positioned within said chamber; and
+(I) said encoder means further includes a pick-up device carried by said speed reduction unit housing and arranged to selectively engage code indicia on said encoder wheel as said wheel rotates in response to actuation of said motor.
+24. An apparatus according to claim 23 wherein:
+(J) said speed reduction unit includes a worm gear on the output shaft of said motor and a worm wheel on the output shaft of the speed reduction unit driven by said worm gear; and
+(K) said encoder wheel is secured to a side face of said worm wheel.
+25. An electric shift apparatus according to claim 18 wherein:
+(D) said control module comprises an operator access submodule adapted to be mounted in an opening in the instrument panel of the vehicle; and
+(E) said comparator means comprises a logic submodule adapted to be mounted in the passenger compartment of the vehicle remote from, but electrically interconnected to, the operator access submodule.
+26. An electric shift apparatus according to claim 25 wherein:
+(F) said mode select member is comprised of push buttons mounted in the front face of said operator access submodule.

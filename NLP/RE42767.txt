@@ -1,0 +1,21 @@
+
+Claims (10)
+Hide Dependent 
+1. A pedal adjuster for mounting to a bracket mounted to a vehicle, the pedal adjuster comprising:
+a pedal assembly including an adjuster member and a pedal arm, said adjuster member mounted to said bracket to pivot said pedal assembly about an adjuster member pivot axis, said pedal arm being mounted to said adjuster member to pivot about a pedal arm pivot axis, said pedal arm pivot axis parallel with and spaced radially outwardly from said adjuster member pivot axis and said bracket;
+a drive mechanism mounted to said bracket, said drive mechanism having a rod connected at one end to said pedal arm, means for selectively moving said rod to pivot said pedal arm about said pedal arm pivot axis to adjust the position of said pedal arm with respect to said adjuster member.
+2. The pedal adjuster of claim 1, wherein said pedal arm pivot axis is positioned in an upper portion of said adjuster mechanism.
+3. The pedal adjuster of claim 1, wherein said pedal arm further comprises a pair of parallel side members, and said rod is mounted between said side members.
+4. The pedal adjuster of claim 3, wherein each of said side members have a side member having a slot for receiving a portion of said drive mechanism to guide said rod during movement of said rod.
+5. The pedal adjuster of claim 1, wherein said means for moving includes a motor.
+6. The pedal adjuster of claim 9 wherein said pedal arm pivot axis is positioned in an upper portion of said pedal arm.
+7. The pedal adjuster of claim 9 wherein said adjuster member pivot axis is positioned in a lower portion of said adjuster member, and said pedal arm pivot axis is positioned in an upper portion of said pedal arm.
+8. The pedal adjuster of claim 9 wherein said drive mechanism extends between an upper portion of said adjuster member and an upper portion of said pedal arm.
+9. A pedal adjuster for adjusting the position of a pedal in a vehicle relative to a vehicle comprising:
+a bracket that is mounted to the vehicle;
+a pedal assembly including an adjuster member and a pedal arm, wherein said adjuster member is mounted to said bracket to pivot said pedal assembly about an adjuster member pivot axis and said pedal arm is pivotally mounted to said adjuster member to pivot about a pedal arm pivot axis, such that said pedal arm pivot axis is parallel with and spaced radially outwardly from said adjuster member pivot axis and said bracket; and
+a drive mechanism extending between said adjuster member and said pedal arm, wherein said drive mechanism includes a screw rod operatively attached to said pedal arm to selectively position the pedal relative to the vehicle operator.
+10. A pedal adjuster for adjusting the position of a pedal in a vehicle relative to vehicle operator comprising:
+a bracket that is mounted to the vehicle;
+a pedal assembly including an adjuster member and a pedal arm, wherein a lower portion of said adjuster member is mounted to said bracket to pivot said pedal assembly about an adjuster member pivot axis and an upper portion of said pedal arm is pivotally mounted to an upper portion of said adjuster member to pivot about a pedal arm pivot axis, such that said pedal arm pivot axis is parallel with and spaced radially outwardly from said adjuster member pivot axis and said bracket; and
+a drive mechanism extending between said adjuster member and said pedal arm, wherein said drive mechanism includes a screw rod operatively attached to said pedal arm below said pedal arm pivot axis, to selectively position the pedal relative to the vehicle operator.

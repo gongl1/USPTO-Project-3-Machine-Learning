@@ -1,0 +1,21 @@
+Claims (11)
+Hide Dependent 
+What is claimed is:
+1. In an anti-backlash nut designed to move along a screw in either of two longitudinal directions, said nut .[.including.]. .Iadd.comprising a nut body with .Iaddend.one or more longitudinal flexure members having one end fixed .Iadd.to said nut body .Iaddend.and one end free-floating:
+the improvement comprising providing .[.upwardly.]. inclined ramps on the exterior of the free-floating ends of said longitudinal flexure members .Iadd.said ramps extending radially outwardly in a direction away from the fixed end .Iaddend.and means for applying an axial force to each of said ramps, said axial force being substantially constant in either direction of motion of said nut.
+2. An anti-backlash nut designed to undergo bidirectional translational movement along a screw having an external thread thereon in response to relative rotational movement between the anti-backlash nut and screw, said nut having an internal thread complementary to the external thread on said screw and said nut comprising, in combination:
+a. one or more longitudinal flexure members having one end fixed .Iadd.to said nut .Iaddend.and one end free-floating, said longitudinal flexure members having .[.an upwardly.]. inclined .[.ramp.]. .Iadd.ramps .Iaddend.on their outer surfaces.Iadd., said ramps extending radially outwardly in a direction away from the fixed end.Iaddend., and,
+b. means for directly applying an axial force to the .[.ramp.]. .Iadd.ramps .Iaddend.on each of said flexure members which axial force is converted by the angle of the .[.ramp.]. .Iadd.ramps .Iaddend.to a radial force which urges the flexure members inwardly whereby the internal thread of said flexure members is maintained in close contact with the external thread of said screw regardless of which direction the nut travels on the thread.
+3. An anti-backlash nut of claim 2 wherein said nut has a circumferentially continuous portion at one end thereof.
+4. An anti-backlash nut of claim 3 wherein said means for applying an axial force comprises an axial compression spring .Iadd.abutting a hollow member coaxially disposed near the base of the inclined ramps for movement along the ramps as the flexure members are flexed radially inwardly upon wear of screw or nut threads.Iaddend..
+5. An anti-backlash nut of claim 4 wherein said anti-backlash nut has a plurality of longitudinal flexure members with a ramp at their free-floating ends.
+6. An anti-backlash nut of claim 5 wherein each of said plurality of longitudinal flexure members is fixed at the same end of said anti-backlash nut.
+7. An anti-backlash nut of claim 5 wherein said anti-backlash nut has a circumferentially continuous portion at both ends thereof.
+8. An anti-backlash nut of claim 7 wherein each of said longitudinal flexure members is fixed at the same end of said anti-backlash nut.
+9. An anti-backlash nut of claim 7 wherein said longitudinal flexure members are alternately fixed at opposite ends of said nut.
+10. An anti-backlash nut for translation along a shaft, comprising, in combination:
+a. one or more longitudinal flexure members having one end fixed .Iadd.to said nut .Iaddend.and one end free-floating, said longitudinal flexure members having an .[.upwardly.]. inclined ramp on their outer surfaces.Iadd., said ramp extending radially outwardly in a direction away from the fixed end.Iaddend.;
+b. spring means coaxial to said flexure members for applying an axial force to the ramp on each of said flexure members;
+c. an internal structure on said flexure members complementary to the external structure of said shaft; and,
+d. said ramp having more than one angle of inclination whereby the axial force applied to said ramp may be varied as the internal structure of the flexure members engages with the external structure of said shaft. .Iadd.
+11. The nut of claim 1 wherein the means for applying an axial force comprises a spring member mounted coaxial to said longitudinal flexure members between said nut body and a hollow member coaxially mounted about said flexure members near the base of said ramps. .Iaddend.

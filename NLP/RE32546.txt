@@ -1,0 +1,24 @@
+Claims (9)
+Hide Dependent 
+What is claimed is:
+1. Apparatus for removing and securing a plug-in electronic unit .Iadd.or the like .Iaddend.from or to an avionics tray, which apparatus comprises
+(i) a threaded spindle one end of which includes a transverse pin for pivotally mounting the spindle in a retaining member attached to or forming part of the avionics tray such that the spindle can move about the transverse axis of said pin but cannot rotate about its own axis;
+(ii) a first sleeve having a first portion relatively remote from the transverse pin and having a second, internally threaded portion which is threaded onto the spindle, the internal diameter of the first portion being slightly greater than the external diameter of the spindle;
+(iii) a first stop member formed in or attached to the end of the first sleeve nearest to the transverse pin;
+(iv) a second stop member arranged to limit the movement of the first sleeve with respect to the spindle in a direction away from the transverse pin;
+(v) a rotatable grip fitted about that end of the first sleeve remote from the transverse pin;
+(vi) a second sleeve coaxial with, and positioned around the first sleeve and having at its end remote from the transverse pin a radial flange including a shoulder facing towards the transverse pin, and an annular recess which cooperates with the rotatable grip and the first sleeve to define an annular cavity around the first sleeve;
+(vii) a torque limiting arrangement positioned in said annular cavity and serving to interconnect the rotating grip and the first sleeve such that rotation of the grip in the direction towards the transverse pin causes the first sleeve to move along the threaded portion of the spindle towards the transverse pin so long as the torque between grip and said first sleeve is less than a predetermined value;
+(viii) a ring member including (a) a sleeve portion coaxial with and positioned for sliding movement on the outer surface of the second sleeve, (b) an internal surface open towards the transverse pin, and (c) a shoulder facing inwards, and capable of abutting, the shoulder of the second sleeve;
+(ix) a third sleeve coaxial with and positioned for relative sliding movement over that part of the outer surface of the second sleeve nearest to the transverse pin, the third sleeve being retained at its end nearest to the transverse pin by the first stop member and having, at that end, (a) a radially inwardly facing abutment which holds the third sleeve away from the first sleeve and which defines in cooperation with the inner surface of the third sleeve the outer surface of the first sleeve and the end of the second sleeve, a sheath like cavity around the first sleeve, and (b) a radially outwardly extending flange, the other end of said third sleeve being in contact with the radially inward part of the taper ring;
+(x) a resilient element located in said sheath-like cavity and arranged so as to tend to urge the second and third sleeves away from one another in the axial direction of the spindle;
+(xi) a generally cylindrical, elastomeric spacer element held between the radial flange of the second sleeve and that end of the ring member remote from the transverse pin, the arrangement being such that when the ring member and said radial flange move towards each other, their respective shoulders come into abutment so as to retain the compressed elastomeric spacer element within a cavity defined between the ring member and said radial flange; and
+(xii) means for urging the rotating grip towards the torque limiting arrangement.
+2. Apparatus as claimed in claim 1, wherein said second sleeve is fixed to said first sleeve.
+3. Apparatus as claimed in claim 1, wherein said second sleeve is free to slide over said first sleeve.
+4. Apparatus as claimed in claim 1, wherein said torque limiting arrangement comprises a plurality of ball bearings held against the surface of a drive plate, which surface is formed with a number of indents.
+5. Apparatus as claimed in claim 4, wherein each of said indents is generally "L"-shaped in section.
+6. Apparatus as claimed in claim 4 .Iadd.or 5.Iaddend., wherein said drive plate is keyed to the spindle.
+7. Apparatus as claimed in claim 1, wherein said torque limiting arrangement comprises a pack of disc springs housed in an annular cavity formed between an outer wall portion of said rotating grip and the outer surface of said first sleeve, the disc springs being urged towards an inner face of the rotating grip through the action of an adjustable screw arrangement.
+8. Apparatus as claimed in claim 1, wherein the rotating grip or at least an outer surface portion thereof is colour-coded to indicate the maximum limiting torque to which the torque limiting arrangement can be set.
+9. Apparatus as claimed in claim 5, wherein said drive plate is keyed to the spindle.

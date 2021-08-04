@@ -1,0 +1,29 @@
+Claims (12)
+Hide Dependent 
+I claim:
+1. In a power transmission apparatus adapted to transmit rotary motion between an engine with an engine shaft and a driven means such as the driving wheels of a vehicle and the like and having a variable rotary pulley drive unit with a driver pulley and a driven pulley connected by a belt means, each pulley having a pair of flanges, at least one flange of which is axially movable with respect to the other flange to change the spacing between the flanges and thus the speed ratio between the pulleys, and means responsive at least to the speed of the engine shaft to change the spacing of the pulley flanges and thus the speed ratio, the improvement which comprises:
+means connecting said driver pulley directly to the engine shaft so that the pulleys are continuously rotated only in one direction when the motor is operating and its shaft is rotating, the continuous rotation of said pulleys when said engine is operating enchancing the shifting of the belt means on said pulley flanges when the speed ratio between the pulleys is changed;
+means comprising a speed-responsive friction starting device .Iadd.responsive to the speed of the engine .Iaddend.drivingly connecting said driven pulley and said driven means; and
+means to select the direction of rotation of said driven means.
+2. A power transmission apparatus as recited in claim 1, where said speed-responsive friction starting device comprises a clutch.
+3. A power transmission apparatus as recited in claim 2, where said means to select the direction of rotation of said driven means comprises a forward-reverse-neutral shifting device operatively associated with said starting device.
+4. A power transmission apparatus as recited in claim 3, where said drivingly connecting means further comprises a synchronizer means.
+5. A power transmission apparatus as recited in claim 3, where said drivingly connecting means further comprises a planetary gear set.
+6. In a power transmission apparatus .[.adapted to be connected between a prime mover and a driven means, having
+a variable rotary pulley drive unit and a forward-reverse gear means,
+said pulley drive unit comprising a driver pulley and a driven pulley each having a pair of flanges axially movable with respect to one another to change the speed ratio between the pulleys, and a belt means connecting the driver and driven pulleys for transmitting power therebetween, the improvement comprising:
+means connecting said driver pulley directly to said prime mover so as to be continuously rotated only in one direction by said prime mover during its operation;.]. .Iadd.as recited in claim 1 further comprising .Iaddend.
+control means operatively associated with said .[.prime mover.]. .Iadd.motor .Iaddend.and said pulley drive unit and responsive to the operation of the .[.prime mover.]. .Iadd.motor .Iaddend.for changing the speed ratio between the pulleys.[.;.].
+.[.means connecting said driven pulley to said gear means;
+means connecting said gear means to said driven means; and
+means to select forward, reverse and neutral drives through said gear means.]..
+7. A power transmission apparatus as recited in claim .[.6.]. .Iadd.13.Iaddend., and further comprising chain means connecting said gear means to said driven means.
+8. A power transmission apparatus as recited in claim .[.6.]. .Iadd.13.Iaddend., in which said gear means comprises at least one planetary gear set.
+9. A power transmission apparatus as recited in claim .[.6.]. .Iadd.13.Iaddend., in which gear means comprises a synchronizer.
+10. In a power transmission apparatus having a drive pulley and a driven pulley, each pulley having a pair of tapered flanges, at least one of which is axially movable relative to the other to regulate the flange spacing and correspondingly to modify the speed ratio between the pulleys, the drive pulley being driven by an engine and the pulleys being drivingly connected by a belt with the spacing between the pulley flanges of each pulley being variable to provide a variable speed drive, and a hydraulic control system operatively associated with the pulleys to vary the spacing of the flanges and including a pump providing an engine torque responsive hydraulic fluid, the improvement comprising:
+a follow-up valve in said hydraulic system having a movable block to control the flow of hydraulic fluid to a piston connected to a flange of the drive pulley and connected piston operator to control the spacing of the drive pulley flanges;
+an opening in said piston operator through which said hydraulic fluid flows;
+said block being movable relative to said opening to control the amount of fluid to said piston;
+said opening having an elongated shape with a leading portion being smaller than a trailing portion to ensure gradual flow of fluid to said piston and to reduce surges in said flow.
+11. In a power transmission apparatus as recited in claim 10, in which said opening is pear-shaped.
+12. In a power transmission apparatus as recited in claim 11, in which said opening is essentially diamond-shaped. .Iadd. 13. A power transmission apparatus as recited in claim 6 where said means to select the direction of rotation of said driven means comprises gear means connected to said driven pulley and to said driven means and further comprising means to select forward, reverse and neutral drives through said gear means. .Iaddend.

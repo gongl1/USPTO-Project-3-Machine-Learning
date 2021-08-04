@@ -1,0 +1,101 @@
+Claims (57)
+Hide Dependent 
+1. A bicycle pedal adapted for rotatable mounting to a bicycle pedal shaft and for use with a separate binding plate on a rider's shoe, said bicycle pedal comprising:
+binding plate engaging means for engaging said binding plate, said binding plate engaging means having an opening to receive the pedal shaft and having first and second plate engaging members coupled so as to rotate together in response to insertion of said binding plate and;
+binding plate clamping means for clamping said binding plate, said binding plate clamping means having first and second plate clamping members, coupled to rotate together and respectively spaced apart from said first and second plate engaging members so as to simultaneously rotate relative to both said first and second plate engaging members in an opposite angular direction therefrom in response to insertion of said binding plate; and
+biasing means for biasing said plate clamping members and said engaging members such that said first plate clamping member and said first plate engaging member cooperatively hold said binding plate in place at a first position and said second plate clamping member and said second plate engaging member cooperatively hold said binding plate at a second position.
+2. A bicycle pedal adapted for rotatable mounting to a bicycle pedal shaft and for use with a separate binding plate on a rider's shoe, said bicycle pedal comprising:
+binding plate engaging means for engaging said binding plate at one of first and second positions, said binding plate engaging means having an opening to receive the pedal shaft and having first and second plate engaging members configured on opposite sides of said opening;
+binding plate clamping means for cooperating with said binding plate engaging means to engage said binding plate, said binding plate clamping means having first and second plate clamping members configured at said first and second positions, respectively spaced apart from said first and second plate engaging members; and
+biasing means for biasing said plate clamping members and said engaging members, wherein said biasing means comprises a helical spring configured so as to receive the pedal shaft therethrough.
+3. A bicycle pedal as set out in claim 1, wherein said binding plate clamping means further comprises an inner mounting block and an outer mounting block each attached to the first and second plate clamping members, and rotatably mounted to the pedal shaft.
+4. A bicycle pedal as set out in claim 1, wherein said binding plate engaging means further comprises a central mounting block attached to said first and second plate engaging members and rotatably mounted to the pedal shaft.
+5. A bicycle pedal as set out in claim 1, wherein said biasing means comprises a helical spring coupled to said binding plate clamping means and to said binding plate engaging means.
+6. A bicycle pedal for use with a separate binding plate on a shoe, said pedal comprising:
+a first pedal portion having an axis of rotation, and having first and second plate engaging members on opposite sides of said axis; and
+a second pedal portion mounted so as to move, relative to said first pedal portion and independently thereof, about said axis of rotation in response to insertion of said binding plate between said first pedal portion and second pedal portion, said second pedal portion having first and second plate clamping members on opposite sides of said axis which move together in response to said insertion of said binding plate;
+wherein one of said first and second plate engaging members and one of said first and second plate clamping members cooperate to hold said binding plate in place.
+7. A bicycle pedal as set out in claim 6, further comprising biasing means for biasing said first pedal portion and said second pedal portion.
+8. A bicycle pedal as set out in claim 7, wherein said pedal is adapted to receive a pedal shaft and wherein said biasing means is a helical spring configured so as to receive the pedal shaft axially therethrough and having one end coupled in the first pedal portion and the other end coupled to the second pedal portion.
+9. A bicycle pedal as set out in claim 8, further comprising means for adjusting the tension on said biasing means.
+10. A bicycle pedal assembly for use with a bicycle and a separate binding plate on a shoe, comprising:
+pedal shaft;
+a binding mechanism including an inner mounting block having a first opening receiving the pedal shaft, a biasing spring, a separate central mounting block having a second opening receiving the pedal shaft, and a separate outer mounting block having a third opening receiving the pedal shaft; and
+a clamping mechanism including a clamp member mounted to said inner and outer mounting blocks and an engaging member mounted to said central mounting block for clamping to the binding plate;
+wherein said clamp member and said engaging member cooperate to hold said binding plate in place.
+11. The pedal assembly of claim 10 wherein said pedal shaft is dimensioned to provide mounting surfaces for said binding mechanism.
+12. The pedal assembly of claim 10 further comprising a torsion spring axially mounted about said pedal shaft.
+13. The pedal assembly of claim 10 further comprising a biasing spring adjustment screw and a spring bushing.
+14. A bicycle pedal for use with a separate binding plate on a rider's shoe, comprising:
+binding plate engaging means for engaging said binding plate at least one position, said binding plate engaging means configured to pivot about an axis of a pedal shaft; and
+binding plate clamping means for engaging said binding plate at said at least one position in combination with said plate engaging means, said binding plate clamping means configured to pivot relative to said binding plate engaging means about said axis of said pedal shaft;
+wherein said plate engaging means and said plate clamping means pivot relative to each other in opposite angular directions about said axis of said pedal shaft to hold said binding plate in place.
+15. The bicycle pedal of claim 14, further comprising biasing means for biasing said plate engaging means and said plate clamping means.
+16. The bicycle pedal of claim 15 wherein at least a portion of said biasing means is contained within openings provided on said plate engaging means and/or on said plate clamping means.
+17. The bicycle pedal of claim 15 wherein at least a portion of said binding plate engaging means and at a least portion of said binding plate clamping means engage said binding plate therebetween.
+18. The bicycle pedal of claim 14, wherein said engagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding plate clamping means decreases and wherein said disengagement occurs when a distance between said portion of binding plate engaging means and said portion of binding plate clamping means increases.
+19. The bicycle pedal of claim 14 wherein at least one portion of said binding plate engaging means and at least one portion of said binding plate clamping means are engaged between at least two portions of said binding plate.
+20. The bicycle pedal of claim 17 wherein said engagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding plate clamping means increases.
+21. The bicycle pedal of claim 17 wherein said disengagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding plate clamping means decreases.
+22. The bicycle pedal of claim 14, wherein said binding plate engaging means is further configured to move a relatively small amount in a direction parallel to the axis of the pedal shaft.
+23. The bicycle pedal of claim 14, wherein said binding plate clamping means is further configured to move a relatively small amount in a direction parallel to the axis of the pedal shaft.
+24. A crank arm assembly adapted for engagement and disengagement of a separate binding plate on a rider's shoe, said crank arm assembly comprising:
+binding plate engaging means for engaging said binding plate at least one position, said binding plate engaging means configured to pivot about an axis;
+binding plate clamping means for engaging said binding plate at said position in combination with said plate engaging means, said binding plate clamping means configured to pivot about said axis;
+common biasing means for biasing said plate engaging means relative to said plate clamping means about said common axis such that said binding plate clamping and engaging means are biased toward each other about said common axis to cooperatively hold said plate in place; and
+a crank arm assembly rotatably supporting said binding plate engaging means and said binding plate clamping means about said axis.
+25. The bicycle pedal of claim 24, wherein said crank arm assembly comprises a pedal shaft mounted to a crank arm.
+26. The bicycle pedal of claim 25, wherein said pedal shaft is rotatably mounted to said crank arm.
+27. The bicycle pedal of claim 25, wherein said pedal shaft is fixedly mounted to said crank arm.
+28. A bicycle pedal for use with a separate binding plate on a rider's shoe, comprising:
+binding plate engaging means for engaging said binding plate at one of two or more positions; and
+binding plate clamping means for engaging said binding plate at said one of two or more positions in combination with said plate engaging means such that said binding plate clamping and engaging means cooperatively hold said plate;
+wherein said binding plate engaging means and said binding plate clamping means are configured so as to rotate relative to each other about a common axis but in opposite angular directions during said engaging of said binding plate.
+29. The bicycle pedal of claim 28, wherein said two or more positions are angularly spaced about said common axis.
+30. The bicycle pedal of claim 28, further comprising biasing means for biasing at least a portion of, said plate engaging means and at least a portion of, said plate clamping means.
+31. The bicycle pedal of claim 28 wherein at least a portion of said binding plate engaging means and at least a portion of said binding plate clamping means engage said binding plate therebetween.
+32. The bicycle pedal of claim 31, wherein said respective portions are configured such that engagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding place clamping means decreases.
+33. The bicycle pedal of claim 31, wherein said respective portions are configured such that disengagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding plate clamping means increases.
+34. The bicycle pedal of claim 28, wherein at least a portion of said binding plate engaging means and at least a portion of said binding plate clamping means are engaged between at least two portions of said binding plate.
+35. The bicycle pedal of claim 34, wherein said engagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding plate clamping means increases.
+36. The bicycle pedal of claim 34, wherein said disengagement occurs when a distance between said portion of the binding plate engaging means and said portion of the binding plate clamping means decreases.
+37. The bicycle pedal of claim 28, wherein said common axis is the axis of a pedal shaft.
+38. The bicycle pedal of claim 28, wherein said binding plate engaging means is further configured to move a relatively small amount in a direction parallel to the axis of the pedal shaft.
+39. The bicycle pedal of claim 28, wherein said binding plate clamping means is further configured to move a relatively small amount in a direction parallel to the axis of the pedal shaft.
+40. A bicycle pedal for releasibly engaging a cleat affixed to the bottom of a shoe, said pedal comprising:
+a spindle with one end adapted for attachment to a bicycle crank arm;
+a first housing and a second housing that rotates about said spindle, each housing separate from the other and having an opening for receiving said spindle, wherein said second housing mounted so as to move, relative to said first housing and independently thereof, in response to insertion of said cleat; and
+a spring loaded latch mechanism that pivots concentrically with the axis of said spindle, wherein said latch mechanism comprises:
+a first pair of hooked members and a second pair of hooked members, wherein the hooked members of each of said first and second pairs of hooked members are on opposite sides of the axis of said spindle, wherein said first pair of hooked members is connected to a portion of said first housing and said second pair of hooked members is connected to a portion of said second housing, said second pair of hooked members having hooked members coupled to simultaneously pivot together with respect to said first pair of hooked members in an opposite angular direction therefrom in response to the insertion of said cleat; and
+a helical spring configured to receive the spindle therethrough and hold the hooked members of said first and second pairs of hooked members apart from each other at substantially equal angles of spacing;
+wherein said spring loaded latch mechanism allows engagement with said cleat
+between one hooked member of said first pair of hooked members and one hooked member of said second pair of hooked members.
+41. The bicycle pedal according to claim 40 wherein said first housing rotates about said spindle on at least one bearing.
+42. The bicycle pedal according to claim 40, wherein said pedal defines four separate cleat engagement positions.
+43. The bicycle pedal according to claim 42, wherein said pedal has only one spring.
+44. A bicycle pedal for releasibly engaging a cleat affixed to the bottom of a shoe, said pedal comprising:
+a spindle with one end adapted for attachment to a bicycle crank arm;
+a first housing, a second housing, and a third housing, each housing having an opening for receiving said spindle, wherein said second housing is separate from and between said first and third housings, said second housing mounted so as to move, relative to said first housing and independently thereof, about the axis of said spindle in response to insertion of said cleat; and
+a spring loaded latch mechanism that pivots concentrically with the axis of said spindle, wherein said latch mechanism comprises:
+hooked members for receiving said cleat including first and second engaging members connected to a portion of said second housing which are coupled to rotate together in an opposite angular direction from first and second clamping members in response to the insertion of said cleat, said first and second clamping members spaced apart from said first and second engaging members and connected to a portion of one of said first and third housings, wherein one of said first and second engaging members and one of said first and second clamping members form an adjacent pair of hooked members; and
+a spring that holds said hooked members apart from each other at substantially equal angles of spacing;
+wherein said spring loaded latch mechanism allows engagement with said cleat between said adjacent pair of hooked members.
+45. The bicycle pedal according to claim 44, wherein the pedal defines four separate cleat engagement positions.
+46. The bicycle pedal according to claim 44, wherein the spring of the pedal includes a spring having a coil axis that is substantially coincident with the axis of said spindle.
+47. The bicycle pedal according to claim 44, wherein said adjacent pair of hooked members are connected to a portion of said first and third housings.
+48. A bicycle pedal adapted for rotatable mounting to a bicycle pedal shaft and for use with a separate binding plate on a rider's shoe, said bicycle pedal configured to engage said binding plate in at least two positions, a first position and a second position, comprising:
+an engagement assembly comprising: an opening to receive the pedal shaft and engaging hooks including a first engaging hook and a second engaging hook coupled so as to rotate together in response to insertion of said binding plate;
+a clamp assembly mounted so as to move, relative to said engagement assembly and independently thereof, in response to insertion of said binding plate, said clamp assembly comprising: clamping hooks including a first clamping hook and a second clamping hook coupled to rotate together and respectively spaced apart from said first and second engaging hooks so as to simultaneously rotate relative to both said first and second engaging hooks in an opposite angular direction therefrom in response to insertion of said binding plate; and
+a helical spring for biasing said clamping hooks and said engaging hooks such that said first clamping hook and said first engaging hook cooperatively hold said binding plate in place at said first position and said second clamping hook and said second engaging hook cooperatively hold said binding plate at said second position, wherein said helical spring is configured to receive the pedal shaft therethrough.
+49. The bicycle pedal according to claim 48, wherein said pedal defines four separate cleat engagement positions.
+50. The bicycle pedal according to claim 48, wherein said engagement assembly having an axis of rotation, and having said first engaging hook and said second engaging hook on opposite sides of said axis.
+51. The bicycle pedal according to claim 50, wherein said clamping hooks are mounted so as to move, relative to said engaging hooks and independently thereof, about said axis of rotation in response to insertion of said binding plate between one of said clamping hooks and one of said engaging hooks.
+52. The bicycle pedal according to claim 51, wherein said first clamping hook and said second clamping hook are connected to a first housing having an opening receiving said pedal shaft.
+53. The bicycle pedal according to claim 52, wherein said clamping hook having an axis of rotation, said first clamping hook and said second clamping hook on opposite sides of said axis.
+54. A bicycle pedal adapted for a rotatable mounting to a bicycle pedal shaft and for use with a separate binding plate on a rider's shoe, said bicycle pedal comprising:
+a binding plate engaging hook having an axis of rotation about said pedal shaft for engaging said binding plate in at least two positions, a first position and a second position, said engaging hook having a portion connected to an opening to receive the pedal shaft and having first and second plate engaging members configured on opposite sides of said axis;
+a binding plate clamping hook for cooperating with said engaging hook to engage said binding plate, said clamping hook having first and second plate clamping members configured at said first and second positions, respectively spaced apart from said first and second plate engaging members; and
+a helical spring for biasing said plate clamping members and said plate engaging members, wherein said helical spring configured so as to receive the pedal shaft therethrough.
+55. The bicycle pedal according to claim 54, wherein said pedal defines four separate cleat engagement positions.
+56. The bicycle pedal according to claim 54, wherein said first and second engaging members are configured to rotate relative to said first and second clamping members in an opposite angular direction therefrom in response to insertion of said binding plate.
+57. The bicycle pedal according to claim 56, wherein said first and second clamping members are mounted so as to move, relative to said first and second engaging members and independently thereof, about said axis of rotation in response to insertion of said binding plate between one of said first and second clamping members and one of said first and second engaging members.

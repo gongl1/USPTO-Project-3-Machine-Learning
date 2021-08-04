@@ -1,0 +1,146 @@
+Claims (15)
+Hide Dependent 
+What is claimed is:
+1. A power transmission device comprising
+a. a hermetically sealed chamber having .Iadd.an interior surface, .Iaddend.a first opening in a first wall of said chamber, and a second opening in an opposing rear wall of said chamber, said openings having a common axis;
+b. rigid transmission means, capable of being wobbled, nonrotatably engaging the interior .[.wall.]. .Iadd.surface .Iaddend.of said chamber, said transmission means being arranged to wobble about a substantially fixed point lying substantially along said common axis;
+c. a first flexible imperforate membrane engaging said transmission means and sealing said first opening;
+d. a second flexible imperforate membrane engaging said transmission means and sealing said second opening;
+e. a rotatable driving member external to said chamber and extending through said first opening of said chamber;
+f. a driven member external to said chamber and extending through said second opening of said chamber;
+g. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means; and
+h. means coupling said transmission means to said driven means for converting the motion of said transmission means into a rotating motion of said driven means.
+2. A power transmission device for transmitting power from an external environment to an internal environment comprising
+a. a housing for separating said external environment from said internal environment, said housing having a first opening in a first wall communicating with said external environment, said housing having a second opening in an opposing rear wall communicating with said internal environment, said openings being aligned along a common axis and forming the ends of a first chamber within said housing, a third opening in said first wall and a fourth opening in said rear wall forming a second chamber within said housing;
+b. transmission means within said first chamber of said housing being adapted to wobble about a fixed point lying substantially in said common axis;
+c. a rotatable driving member extending from said external environment through said first opening of said housing;
+d. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means;
+e. a first bearing housed within said first chamber for supporting said driving member;
+f. a driven member external to said housing and extending from said internal environment through said second opening of said housing;
+g. means coupling said transmission means to said driven means for converting the wobbling motion of said transmission means into rotary motion of said driven means;
+h. a second bearing housed within said first chamber for supporting said driven member;
+i. a first flexible imperforate membrane engaging said transmission means and sealing said first opening at said first bearing;
+j. a second flexible imperforate membrane engaging said transmission means and sealing said second opening at said second bearing;
+k. a third flexible imperforate membrane affixed to an inner wall of said second chamber and sealing in communication said third opening and a fifth opening extending from said second chamber to said first bearing on the external environmental .[.aide.]. .Iadd.side .Iaddend.thereof;
+l. a fourth flexible imperforate membrane affixed to said inner wall of said second chamber and sealing said fourth opening, while permitting a sixth opening to be unsealed between said first chamber and said second chamber; and
+m. pressure sensitive means covering said third opening.
+3. Apparatus for .[.detecting.]. .Iadd.enhancing .Iaddend.the reliability of a hermetically sealed torque transmission system, wherein said system includes a first shaft extending from an external environment into said system, and a second shaft extending from an internal environment into said system, comprising
+a. a housing extending from said external environment to said internal environment, and forming a chamber therewithin including
+1. a first opening at an external environmental side thereof; .Iadd.and .Iaddend.
+2. a second opening at an internal environmental side thereof; .[.and.].
+.Badd..[.3. a third opening extending through to the interior of said system;.]..Baddend.
+b. a first flexible imperforate diaphragm engaging an inner wall of said chamber and sealing said first opening;
+c. a second flexible imperforate diaphragm engaging said inner wall of said chamber and sealing said second opening, .[.whereby.]. said diaphragms jointly .Iadd.operating to .Iaddend.seal .[.said third opening.]. .Iadd.the space between them .Iaddend.from normally free communication with either of said first or second openings; and
+d. .[.pressure checking.]. .Iadd.sealing .Iaddend.means .[.covering.]. .Iadd.for .Iaddend.said first opening, .[.whereby with constant pressure in said external and internal environments,.]. .Iadd.and detection means for detection of .Iaddend.a change in .[.pressure detected by said pressure checking means.]. .Iadd.status which .Iaddend.occurs upon .[.one or more of the following conditions;.].
+.[.1. a leak or rupture of said first flexible imperforate diaphragm;.].
+.[.2. a leak or rupture of said second flexible imperforate diaphragm;.].
+.[.3..]. failure of seal of said first opening .[.by said pressure indicating means; or.]. .Iadd.sealing means.Iaddend..
+.[.4. failure of reliability of said hermetically sealed torque transmission system..].
+4. Apparatus as recited in claim 3, wherein fluid can be added .[.via said pressure checking means.]. to .Iadd.the space on the external-environment side of said first diaphragm to .Iaddend.compensate for fluid loss from said housing.
+5. Apparatus as recited in claim 2 wherein fluid can be added via said pressure sensitive means to compensate for fluid loss past said first bearing. .Iadd.6. Apparatus as recited in claim 2 wherein a non-hermetic seal capable of withstanding high differential pressures movably seals said driving member, sealing liquid is confined on the external-environment side of all of said diaphragms, and said pressure sensitive means is a check valve through which sealing liquid may be supplied to compensate for fluid loss past said non-hermetic seal. .Iaddend. .Iadd.7. A power transmission device comprising
+a. a seal chamber having an interior surface a first opening in a first wall of said chamber, and a second opening in an opposing rear wall of said chamber, said openings having a common axis;
+b. rigid transmission means, capable of being wobbled, nonrotatably engaging the interior surface of said chamber, said transmission means being arranged to wobble about a susbstantially fixed point lying substantially along said common axis;
+c. a flexible imperforate membrane engaging said transmission means and with it hermetically sealing one said opening;
+d. a rotatable driving member external to said chamber and extending through said first opening of said chamber;
+e. a driven member external to said chamber and extending through said second opening of said chamber;
+f. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means; and
+g. means coupling said transmission means to said driven member for converting the motion of said transmission means into a rotating motion of
+said driven member. .Iaddend. .Iadd.8. A power transmission device for transmitting power from an external environment to an internal environment comprising
+a. a housing for separating said external environment from said internal environment, said housing having a first opening in a first wall communicating with said external environment, said housing having a second opening in an opposing rear wall communicating with said internal environment, said openings being aligned along a common axis and forming the ends of a chamber within said housing, a third opening into said housing from the external environment and a fourth opening into said housing from the internal environment;
+b. transmission means within said chamber of said housing being adapted to wobble about a fixed point lying substantially in said common axis;
+c. a rotatable driving member extending from said external environment through said first opening of said housing;
+d. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means;
+e. a first bearing housed within said chamber for supporting said driving member;
+f. a driven member external to said housing and extending from said internal environment through said second opening of said housing;
+g. means coupling said transmission means to said driven member for converting the wobbling motion of said transmission means into rotary motion of said driven member;
+h. a second bearing housed within said chamber for supporting said driven member;
+i. a first flexible imperforate membrane engaging said transmission means and sealing said first opening as to flow through said first bearing;
+j. a second flexible imperforate membrane engaging said transmission means and sealing said second opening as to flow through said second bearing;
+k. a third flexible imperforate membrane affixed to an inner wall of said housing and sealing said third opening while leaving communication from it to said first bearing on the external environmental side of the first membrane;
+l. a fourth flexible imperforate membrane affixed to said inner wall of said housing and sealing said fourth opening, while permitting communication between the space of said chamber between the first and second membranes and the space between the third and fourth membranes;
+m. means preventing outflow through said third opening; and
+n. a rotary seal for said driven member, of a type not dependably hermetic, but suitable for normally retaining a liquid sealant from flowing out
+through the first bearing. .Iadd.9. A power transmission device for transmitting power from an external environment to an internal environment comprising
+a. a housing for separating said external environment from said internal environment, said housing having a first opening in a first wall communicating with said external environment, said housing having a second opening in an opposing rear wall communicating with said internal environment, said openings being aligned along a common axis and forming the ends of a chamber within said housing, and a third opening into said housing from the internal environment;
+b. transmission means within said chamber of said housing being adapted to wobble about a fixed point lying substantially in said common axis;
+c. a rotatable driving member extending from said external environment through said first opening of said housing;
+d. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means;
+e. a first bearing housed within said chamber for supporting said driven member;
+f. a driven member external to said housing and extending from said internal environment through said second opening of said housing;
+g. means coupling said transmission means to said driven member for converting the wobbling motion of said transmission means into rotary motion of said driven member;
+h. a second bearing housed within said chamber for supporting said driven member;
+i. a first flexible imperforate membrane engaging said transmission means and sealing said first opening as to flow through said first bearing;
+j. a second flexible imperforate membrane engaging said transmission means and sealing said second opening as to flow through said second bearing;
+k. a third flexible imperforate membrane affixed to an inner wall of said housing while leaving communication from one side of it to said first bearing on the external environmental side of the first membrane;
+l. a fourth flexible imperforate membrane affixed to said inner wall of said housing and sealing said third opening, while permitting communication between the space of said chamber between the first and second membranes and the space between the third and fourth membranes;
+m. means preventing outflow through said third opening; and
+n. means for detection of the positions of said third and fourth membranes whereby movement of the third membrane will show leakage of said rotary seal, and movement of the fourth membrane different from movement of the
+third membrane will show membrane leakage. .Iaddend. .Iadd.10. A sealed transmission device for performing a function in a hermetically sealed working environment in response to a force applied in the external environment comprising:
+a. a seal chamber having a first opening, for exposure to the external environment; and a second opening, for exposure to the working environment;
+b. a movement transmission means extending movably through both openings;
+c. an imperforate flexible membrane sealed to the transmission means and to the chamber walls; and with the transmission means forming a hermetic seal separating said openings;
+d. a body of sealing liquid confined within the chamber on the external side of the membrane by a pressure-withstanding seal for the transmission means to maintain pressure on the external side of the membrane to neutralize pressure on the working side of said membrane;
+e. said device including a pressure-equalizing means movable by virtue of hermetically sealed membrane means substantially unaffected by movement of the transmission means but movable by any differential pressures between the fluids on the two said sides for maintaining the confined sealing liquid always at the pressure of the working side. .Iaddend. .Iadd.11. A sealed transmission device for performing a function in a hermetically sealed working environment in response to a force applied in the external environment comprising:
+a. a seal chamber having a first opening, for exposure to the external environment; and a second opening, for exposure to the working environment;
+b. a movement transmission means extending movably through both openings;
+c. an imperforate flexible membrane sealed to the transmission means and to the chamber walls; and with the transmission means forming a hermetic seal separating said openings;
+d. a body of sealing liquid confined within the chamber on the external side of the membrane by a pressure-withstanding seal for the transmission means to maintain pressure on the external side of the membrane to neutralize pressure on the working side of said membrane;
+e. said device including a pressure-equalizing means movable by virtue of hermetically sealed membrane means substantially unaffected by movement of the transmission means but movable by any differential pressures between the fluids on the two said sides for maintaining the confined sealing liquid always at the pressure of the working side; and
+f. means for replenishing liquid to the confined body of liquid in the
+event of leakage from it. .Iaddend. .Iadd.12. A sealed power transmission device for performing a function in a hermetically sealed working environment in response to a force applied in the external environment comprising:
+a. a seal chamber having a first opening, for exposure to the external environment; and a second opening, for exposure to the working environment;
+b. a transmission means extending movably through both openings;
+c. an imperforate flexible membrane sealed to the transmission means and to the chamber walls; and with the transmission means forming a hermetic seal between said openings;
+d. pressure-withstanding seal means external of said membrane for sealing between said movable transmission means and said first opening;
+e. sealing liquid confined within the chamber on the external side of the membrane to maintain the pressure on the external side of the membrane equal to the pressure on the working side of said membrane;
+f. said device including a pressure-equalizing means movable by virtue of hermetically sealed membrane means substantially unaffected by movement of the transmission means but movable by any differential pressures between the fluids on the two sides for maintaining the confined liquid at the pressure of the working side. .Iaddend. .Iadd.13. A sealed power transmission device for performing a function in a hermetically sealed working environment in response to a force applied in the external environment comprising:
+a. a seal chamber having a first opening, for exposure to the external environment; and a second opening, for exposure to the working environment;
+b. a transmission means extending movably through both openings;
+c. an imperforate flexible membrane sealed to the transmission means and to the chamber walls; and with the transmission means forming a hermetic seal between said openings;
+d. pressure-withstanding seal means external of said membrane for sealing between said movable transmission means and said first opening;
+e. sealing liquid confined within the chamber on the external side of the membrane to maintain the pressure on the external side of the membrane equal to the pressure on the working side of said membrane;
+f. said device including a pressure-equalizing means movable by virtue of hermeticaly sealed membrane means substantially unaffected by movement of the transmission means but movable by any differential pressures between the fluids on the two sides for maintaining the confined liquid at the pressure of the working side; and
+g. means for replenishing liquid to the confined sealing liquid in the event of leakage from it, and detection means for determining the need for
+such replacement. .Iaddend. .Iadd.14. A sealed power transmission device for performing a function in a hermetically sealed working environment in response to a force applied in the external environment comprising:
+a. a seal chamber having a first opening, for exposure to the external environment; and a second opening, for exposure to the working environment;
+b. a transmission means extending movably through both openings;
+c. an imperforate flexible membrane sealed to the transmission means and to the chamber walls; and with the transmission means forming a hermetic seal between said openings;
+d. pressure-withstanding seal means external of said membrane for sealing between said movable transmission means and said first opening;
+e. sealing liquid confined within the chamber on the external side of the membrane to maintain the pressure on the external side of the membrane equal to the pressure on the working side of said membrane;
+f. said device including a pressure-equalizing means movable by virtue of hermetically sealed membrane means substantially unaffected by movement of the transmission means but movable by any differential pressures between the fluids on the two sides for maintaining the confined liquid at the pressure of the working side; and
+g. means for replenishing liquid to the confined sealing liquid in the event of leakage from it, and detection means for determining the need for such replacement, comprising position detection means responsive to movement of a pressure-equalizing means which moves as sealing liquid leaks through said seal for the first opening to maintain on the residual sealing liquid a pressure equal to the working pressure. .Iaddend. .Iadd.15. A hermetically sealed transmission device for transmitting rotary motion including a drive shaft, a driven shaft coaxial therewith, and means drivingly coupling the shafts including a transmission means of rigid nature restrained against rotation but free to wobble, flexible diaphragm means cooperating with the transmission means to provide a hermetic seal between the shafts, and a tapered bearing assembly coupling each shaft to the transmission means, each bearing assembly having its axis at a small angle to the associated shaft axis, in a relationship such that the turning of the drive shaft causes a wobbling of the transmission means, which in turn causes a turning of the driven shaft which duplicates the turning of the drive shaft. .Iaddend. .Iadd.16. A hermetically sealed transmission device for transmitting rotary motion including a drive shaft, a driven shaft coaxial therewith, and means drivingly coupling the shafts including a transmission ring, flexible diaphragm means cooperating with the transmission ring to provide a hermetic seal between the shafts, and a tapered bearing assembly coupling each shaft to the transmission ring, each bearing assembly being eccentric to the common shaft axis, in a relationship such that the turning of the drive shaft causes a movement of the transmission ring, which in turn causes a turning of the driven shaft
+which duplicates the turning of the drive shaft. .Iaddend. .Iadd.17. A hermetically sealed transmission device for transmitting rotary motion including a drive shaft having along its periphery an eccentric bearing surface which is circular about an axis slightly tilted from the shaft axis, a driven shaft coaxial therewith and having a like end member, and means drivingly coupling the shafts including a wobble element of rigid nature maintaining a 180° displacement between the eccentricities of the two end members, restrained against rotation but free to wobble, flexible diaphragm means cooperating with the wobble element to provide a hermetic seal between the shafts, and having bearing means in bearing relationship with the peripheral bearing surface of each shaft end member and coupling the shaft to the wobble element, each said peripheral bearing surface and bearing means having a common axis at a small angle to the associated shaft axis, in a relationship such that the turning of the drive shaft and its eccentric end member causes a wobbling of the wobble element about a stationary point on the common axis of the shafts, which in turn causes a turning of the driven shaft which duplicates the turning
+of the drive shaft. .Iaddend. .Iadd.18. A power transmission device according to claim 1, in which each coupling means is of a type exerting an orbiting thrust directed substantially axially against the member it actuates. .Iaddend. .Iadd.19. A power transmission device according to claim 1, in which each coupling means is of a typewhich exerts both an orbiting thrust directed substantially axially and a thrust directed substantially in a radial plane against the member it actuates. .Iaddend. .Iadd.20. A sealed transmission device in situ, namely in conjunction with apparatus having a working environment therein to be sealed reliably from the external environment, expected to exhibit substantial pressure, and within which a function is to be performed by the transmission device; said transmission device including:
+a. a seal housing having an opening exposed at its outer end to the external environment;
+b. a movement transmission means extending movably through said opening;
+c. an impervious flexible membrane cooperating with said housing and transmission means to allow said transmission means to perform a function in the working environment while forming a hermetic seal between the working environment and said opening; said membrane being subject to movement by the transmission means;
+d. a pressure-withstanding seal preventing substantial leakage through said opening while permitting movement of the transmission means;
+e. a body of sealing liquid confined between the external side of the membrane and the opening to maintain pressure on the external side of the membrane to neutralize pressure on the working side of the membrane;
+f. said device including an isolative type of pressure-transmitting means for transmitting to said body of sealing liquid the pressure of the working environment while isolating the body from the working environment and leaving substantially unaffected the function-performing movements of
+the transmission means. .Iaddend. .Iadd.21. A sealed transmission device in situ according to claim 20, in which the device includes facilities for replenishing the body of sealing liquid in the event of depletion by leakage past the pressure-withstanding seal. .Iaddend. .Iadd.22. A sealed transmission device in situ according to claim 20, in which the device includes means for detecting leakage of liquid from the body of sealing liquid. .Iaddend. .Iadd.23. A sealed transmission device in situ according to claim 20, in which the device includes means for detecting leakage of liquid from the body of sealing liquid and for replenishing the body of
+sealing liquid in that event. .Iaddend. .Iadd.24. A power transmission device comprising
+a. a seal chamber having an interior surface, a first opening in a first wall of said chamber, and a second opening in an opposing rear wall of said chamber, said openings having a common axis;
+b. rigid transmission means, capable of being wobbled, nonrotatably engaging the interior surface of said chamber, said transmission means being arranged to wobble about a substantially fixed point lying substantially along said common axis;
+c. a flexible imperforate membrane engaging said transmission means and with it hermetically sealing one said opening;
+d. a rotatable driving member external to said chamber and extending through said first opening of said chamber;
+e. a driven member external to said chamber and extending through said second opening of said chamber;
+f. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means; and
+g. means coupling said transmission means to said driven member for converting the motion of said transmission means into a rotary motion of said driven member;
+the means coupling the transmission means to the driving member and to the
+driven member being tapered bearings. .Iaddend. .Iadd.25. A power transmission device comprising
+a. a seal chamber having an interior surface, a first opening in a first wall of said chamber, and a second opening in an opposing rear wall of said chamber, said openings having a common axis;
+b. rigid transmission means, capable of being wobbled, nonrotatably engaging the interior surface of said chamber, said transmission means being arranged to wobble about a substantially fixed point lying substantially along said common axis;
+c. a flexible imperforate membrane engaging said transmission means and with it hermetically sealing one said opening;
+d. a rotatable driving member external to said chamber and extending through said first opening of said chamber;
+e. a driven member external to said chamber and extending through said second opening of said chamber;
+f. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means; and
+g. means coupling said transmission means to said driven member for converting the motion of said transmission means into a rotary motion of said driven member;
+the means coupling the transmission means to the driving member and to the driven member being of a type which exerts an orbiting thrust directed substantially axially against the member it actuates. .Iaddend. .Iadd.26. A power transmission device comprising
+a. a seal chamber having an interior surface, a first opening in a first wall of said chamber, and a second opening in an opposing rear wall of said chamber, said openings having a common axis;
+b. rigid transmission means, capable of being wobbled, nonrotatably engaging the interior surface of said chamber, said transmission means being arranged to wobble about a substantially fixed point lying substantially along said common axis;
+c. a flexible imperforate membrane engaging said transmission means and with it hermetically sealing one said opening;
+d. a rotatable driving member external to said chamber and extending through said first opening of said chamber;
+e. a driven member external to said chamber and extending through said second opening of said chamber;
+f. means coupling said driving member to said transmission means for converting the rotary motion of said driving member into a wobbling motion of said transmission means; and
+g. means coupling said transmission means to said driven member for converting the motion of said transmission means into a rotary motion of said driven member;
+the means coupling the transmission means to the driving member and to the driven member being of a type which exerts both an orbiting thrust directed substantially axially and a thrust directed substantially in a radial plane against the member which it actuates. .Iaddend.

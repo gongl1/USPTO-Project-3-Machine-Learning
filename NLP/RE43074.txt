@@ -1,0 +1,63 @@
+Claims (19)
+Hide Dependent 
+1. A bicycle shift control device which operates a shifting mechanism via a shift control cable, the shift control device comprising:
+a control body rotatable about an axis (X) for controlling the shift control cable;
+a mounting member adapted to mount the shift control device to a handlebar, wherein the mounting member defines a handlebar mounting axis (HB);
+wherein the axis (X) is oriented substantially perpendicular to the handlebar mounting axis (HB);
+an operating body having an abutment in a position spaced apart from the control body and which is coupled to the shift control device for displacement between a home position and a shift position;
+wherein the operating body moves linearly in a straight line between the home position and the shift position;
+a transmission which converts the displacement of the operating body from the home position to the shift position into a rotational displacement of the control body, wherein the transmission includes a plurality of ratchet teeth; and
+an interface member movably mounted relative to the operating body and having an operating force receiving surface and an operating force applying surface, wherein the operating force receiving surface is adapted to receive an operating force from a rider, and wherein the operating force applying surface applies the operating force to the abutment of the operating body for moving the operating body from the home position to the shift position.
+2. The device according to claim 1 wherein the operating force-receiving surface is inclined relative to a horizontal axis (H).
+3. The device according to claim 2 wherein the plurality of ratchet teeth are disposed in a ratchet teeth plane (T), and wherein the horizontal axis (H) is parallel to the ratchet teeth plane (T).
+4. The device according to claim 1 wherein the operating body is movably retained to an intermediate mounting member, and wherein the interface member is coupled to the intermediate mounting member.
+5. The device according to claim 4 wherein the interface member is pivotably coupled to the intermediate mounting member.
+6. The device according to claim 5 wherein the operating force receiving surface is inclined relative to a horizontal axis (H).
+7. The device according to claim 6 wherein the plurality of ratchet teeth are disposed in a ratchet teeth plane (T), and wherein the horizontal axis (H) is parallel to the ratchet teeth plane (T).
+8. A bicycle shifter shift control device which operates a shifting mechanism via a shift control cable, the shift control device comprising:
+a control body rotatable about an axis (X) for controlling the shift control cable;
+a mounting member adapted to mount the shift control device to a handlebar, wherein the mounting member defines a handlebar mounting axis (HB);
+wherein the axis (X) is oriented substantially perpendicular to the handlebar mounting axis (HB);
+a linear operating body which forms an abutment in a position spaced apart from the control body and which is coupled to the operating shift control device for linear displacement between a first home position and a first shift position;
+an interface member movably mounted relative to the linear operating body and having a first finger contact and an operating force applying surface, wherein the operating force applying surface applies the an operating force to the abutment of the linear operating body for moving the linear operating body from the first home position to the first shift position;
+a second operating body which forms a second finger contact part in a position spaced apart from the control body and which is coupled to the operating shift control device for displacement between a second home position and a second shift position;
+a first transmission which converts the linear displacement of the linear operating body from the first home position to the first shift position into a rotational displacement of the control body, wherein the first transmission includes a plurality of ratchet teeth disposed in a ratchet teeth plane (T);
+a second transmission which converts the displacement of the second operating body from the second home position to the second shift position into a rotational displacement of the control body; and
+wherein a path of movement of the linear operating body is substantially parallel to the ratchet teeth plane (T).
+9. The device according to claim 8 wherein the operating force receiving applying surface is inclined relative to a horizontal axis (H).
+10. The device according to claim 9 wherein the plurality of ratchet teeth are disposed in a ratchet teeth plane (T), and wherein the horizontal axis (H) is parallel to the ratchet teeth plane (T).
+11. The device according to claim 8 wherein the linear operating body is movably retained to an intermediate mounting member, and wherein the interface member is coupled to the intermediate mounting member.
+12. The device according to claim 11 wherein the linear operating body moves linearly in a straight line between the first home position and the first shift position.
+13. The device according to claim 12 wherein the interface member is pivotably coupled to the intermediate mounting member.
+14. The device according to claim 13 wherein the operating force receiving applying surface is inclined-relative to a horizontal axis (H).
+15. The device according to claim 14 wherein the plurality of ratchet teeth are disposed in a ratchet teeth plane (T), and wherein the horizontal axis (H) is parallel to the ratchet teeth plane (T).
+16. A bicycle shift control device which operates a shifting mechanism via a shift control cable, the shift control device comprising:
+a control body rotatable about an axis (X) for controlling the shift control cable;
+an operating body having an abutment in a position spaced apart from the control body and which is coupled to the shift control device for displacement between a home position and a shift position;
+wherein the operating body includes a roller for controlling the operation of the control body;
+a transmission which converts the displacement of the operating body from the home position to the shift position into a rotational displacement of the control body, wherein the transmission includes a plurality of ratchet teeth; and
+an interface member movably mounted relative to the operating body and having an operating force receiving surface and an operating force applying surface, wherein the operating force receiving surface is adapted to receive an operating force from a rider, and wherein the operating force applying surface applies the operating force to the abutment of the operating body for moving the operating body from the home position to the shift position.
+17. A bicycle shifter shift control device which operates a shifting mechanism via a shift control cable, the shift control device comprising:
+a control body rotatable about an axis (X) for controlling the shift control cable;
+a mounting member adapted to mount the shift control device to a handlebar and defining a handlebar mounting axis (HB);
+wherein the axis (X) is substantially perpendicular to the handlebar mounting axis (HB);
+a linear operating body which forms an abutment in a position spaced apart from the control body and which is coupled to the operating shift control device for linear displacement between a first home position and a first shift position;
+wherein the linear operating body includes a roller for controlling the operation of the control body;
+an interface member movably mounted relative to the linear operating body and having a first finger contact and an operating force applying surface, wherein the operating force applying surface applies the an operating force to the abutment of the linear operating body for moving the linear operating body from the first home position to the first shift position;
+a second operating body which forms a second finger contact part in a position spaced apart from the control body and which is coupled to the operating shift control device for displacement between a second home position and a second shift position;
+a first transmission which converts the linear displacement of the linear operating body from the first home position to the first shift position into a rotational displacement of the control body, wherein the first transmission includes a plurality of ratchet teeth disposed in a ratchet teeth plane (T);
+a second transmission which converts the displacement of the second operating body from the second home position to the second shift position into a rotational displacement of the control body; and
+wherein a path of movement of the linear operating body is substantially parallel to the ratchet teeth plane (T).
+18. A bicycle shift control device which operates a shifting mechanism via a shift control cable, the shift control device comprising:
+a control body rotatable about an axis (X) for controlling the shift control cable;
+an operating body having an abutment in a position spaced apart from the control body and which is coupled to the shift control device for displacement between a home position and a shift position;
+a transmission which converts the displacement of the operating body from the home position to the shift position into a rotational displacement of the control body, wherein the transmission includes a plurality of ratchet teeth; and
+an interface member movably mounted relative to the operating body and having an operating force receiving surface and an operating force applying surface, wherein the operating force receiving surface is adapted to receive an operating force from a rider, and wherein the interface member pivots so that the operating force applying surface applies the operating force to the abutment of the operating body for moving the operating body from the home position to the shift position.
+19. A bicycle shifter shift control device which operates a shifting mechanism via a shift control cable, the shift control device comprising:
+a control body rotatable about an axis (X) for controlling the shift control cable;
+a linear operating body which forms an abutment in a position spaced apart from the control body and which is coupled to the operating shift control device for linear displacement between a first home position and a first shift position;
+an interface member movably mounted relative to the linear operating body and having a first finger contact and an operating force applying surface, wherein the interface member pivots so that the operating force applying surface applies the an operating force to the abutment of the linear operating body for moving the linear operating body from the first home position to the first shift position;
+a second operating body which forms a second finger contact part in a position spaced apart from the control body and which is coupled to the operating shift control device for displacement between a second home position and a second shift position;
+a first transmission which converts the linear displacement of the linear operating body from the first home position to the first shift position into a rotational displacement of the control body, wherein the first transmission includes a plurality of ratchet teeth disposed in a ratchet teeth plane (T);
+a second transmission which converts the displacement of the second operating body from the second home position to the second shift position into a rotational displacement of the control body; and
+wherein a path of movement of the linear operating body is substantially parallel to the ratchet teeth plane (T).

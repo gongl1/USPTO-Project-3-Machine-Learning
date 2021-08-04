@@ -1,0 +1,41 @@
+Claims (10)
+Hide Dependent 
+I claim:
+1. In combination with a tiltable element, a pivotable screw jack drive for tilting control of the element, comprising:
+a housing, a .Iadd.static .Iaddend.jacking nut bearing surface of concave part-spherical shape in a wall of the housing,
+a single piece jacking nut having an outer surface which is a complementary convex part-spherical shape .[.against which said jacking nut surface bears.]., .Iadd.the outer surface having a center of curvature and bearing against the static surface, .Iaddend.an inner threaded surface, and a series of gear teeth spaced around its periphery defining a worm wheel, .Iadd.said center of curvature lying in a plane which includes a pitch circle of the gear teeth, .Iaddend.
+a motor assembly within the housing having an output shaft, a drive worm on the output shaft, said drive worm having threads in direct meshing contact with the gear teeth of the worm wheel to drive the worm wheel,
+a jacking screw having a first end with a threaded male portion which is threadably engaged in direct mating control with said inner threaded surface of the jacking nut, and a second end which engages said .Iadd.tiltable .Iaddend.element for relative pivotal movement about an axis which is .[.perpendicular.]. .Iadd.angled with respect .Iaddend.to the axis of the screw, and
+restraining means for restraining the screw from rotation,
+the arrangement being such that, upon motor rotation, the nut extends or retracts the jacking screw and effects tilting of the element.
+2. A pivotable screw jack according to claim 1 wherein the envelope shape of the worm wheel is cylindrical.
+3. A pivotable screw jack according to claim 1 wherein said restraining portion of said second end of the jacking screw comprises a restraining spigot which so engages a complementary surface of a slot in the .Iadd.tiltable .Iaddend.element as to restrain the screw from rotation.
+4. A pivotable screw jack according to claim 1 wherein said jacking screw second end also comprises a part spherical surface, and said .Iadd.tiltable .Iaddend.element contains a part spherical socket complementary to and engaged by .[.said screw part spherical surface.]. .Iadd.the part-spherical surface of the jacking screw.Iaddend..
+5. A pivotable screw jack according to claim 1 wherein said jacking screw first end is bifurcate, .[.having.]. .Iadd.has .Iaddend.two limbs each with outer curved .[.thread.]. .Iadd.threaded .Iaddend.surfaces which threadably engage said inner threaded surface of the jacking nut, and a "U"-shaped spring between said limbs urging their threaded surfaces into that engagement.
+6. A pivotable screw jack according to claim 1 wherein said tiltable element comprises a backing plate of a rear vision mirror for a motor vehicle.
+7. In combination with a tiltable element, a pivotable screw jack drive for tilting control of the element, comprising:
+a housing, a .Iadd.static housing, a .Iaddend.jacking nut bearing surface of concave part-spherical shape in a wall of the housing,
+a .Iadd.single piece .Iaddend.jacking nut having an outer surface which is a complementary convex part-spherical shape .[.against which said jacking nut surface bears.]., .Iadd.the outer surface having a center of curvature and bearing against said static bearing surface, .Iaddend.an inner threaded surface, and a series of gear teeth spaced around its periphery.Iadd., said gear teeth .Iaddend.defining a worm wheel,
+a motor assembly within the housing having an output shaft, a drive worm on the output shaft in driving engagement with the worm wheel .Iadd.teeth.Iaddend.,
+a jacking screw having a first end with a threaded male portion which threadably engages said inner threaded surface of the jacking nut, and a second end which engages said .Iadd.tiltable .Iaddend.element for relative pivotal movement about an axis which is perpendicular to the axis of the screw, .[.and.].
+restraining means for restraining the screw from rotation,
+a mounting plate,
+means joining the housing to the mounting plate, and
+a spring engaging said .Iadd.convex .Iaddend.part-spherical surface of said jacking nut, the spring having projecting limbs which react against a surface of the mounting plate, thereby retaining said jacking nut outer surface in contact with said jacking nut bearing surface,
+the arrangement being such that, upon motor rotation, the nut extends or retracts the jacking screw and effects tilting of the element .Iadd.and movement of the gear teeth across the drive worm.Iaddend..
+8. A pivotable screw jack according to claim 7 further comprising a soft gasket contiguous with a surface of said mounting plate and between said mounting plate and spring limbs.
+9. A rear vision mirror assembly for a motor vehicle comprising:
+a backing plate, a part-spherical surface of the backing plate which defines a first element of a first ball and socket joint,
+a mounting plate, a second element of the first ball and socket joint on the mounting plate engaging the first element thereof for relative pivotal and rotational movement of the backing plate with respect to the mounting plate,
+two further part-spherical surfaces of the backing plate being concave and defining respectively first elements of second and third ball and socket joints in the backing plate, which subtend an angle of 90° with the .Iadd.first element of the .Iaddend.first said ball and socket.Iadd., .Iaddend.
+two pivotable screw jack drives, each including:
+a housing, a .[.jacking nut.]. .Iadd.static .Iaddend.bearing surface of concave part-spherical shape in a wall of the housing,
+a jacking nut having an outer surface which is a complementary convex part-spherical shape .[.against which said jacking nut surface bears.]. .Iadd.the outer surface having a center of curvature and bearing against said static bearing surface.Iaddend., an inner threaded surface, and a series of gear teeth spaced around its periphery defining a worm wheel, .Iadd.said center of curvature lying in a plane which includes a pitch circle of the gear teeth, .Iaddend.
+a motor assembly within the housing having an output shaft, a drive worm on the output shaft in driving engagement with the worm wheel,
+a jacking screw having a first end with a threaded male portions which threadably engages said inner threaded surface of the jacking nut, and a second end which engages said .Iadd.tiltable .Iaddend.element for relative pivotal movement about an axis which is perpendicular to the axis of the screw, and
+restraining means for restraining the screw from rotation,
+the arrangement being such that, upon motor rotation, the nut extends or retracts the jacking screw and effects tilting of the .Iadd.tiltable .Iaddend.element,
+respective springs co-acting between the mounting plate and the jacking nut part-spherical surfaces retaining said screw jack drives between the mounting plate and the housing,
+said second ends of said jacking screws comprising the second elements of said second and third ball and socket joints, and pivotally engaging respective said further backing plate surfaces.
+10. A rear vision mirror assembly according to claim 9 wherein each ball and socket joint first element is a socket and second element its complementary ball, and further comprising slot surfaces in said backing plate defining two slots opening into said second and third sockets and directed therefrom towards the first said ball and socket joint,
+and respective spigots projecting from the balls of said second and third ball and socket joints engaging walls of said slots and restraining those balls against rotation.

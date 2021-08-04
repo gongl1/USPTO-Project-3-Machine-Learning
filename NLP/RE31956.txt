@@ -1,0 +1,25 @@
+Claims (13)
+Hide Dependent 
+What is claimed is:
+1. An infinitely adjustable cable-controlled apparatus comprising
+a support member,
+a control member movably mounted on said support member,
+push-pull cable means connected to said control member for selectively moving the same,
+a bracket mounted on said support member and mounting said cable means thereon,
+adjustment means adjustably mounting said cable means on said bracket for axial movement thereon to selectively move and adjust the position of said control member relative to said support member upon rotation of said bracket, and
+retaining means.Iadd., separate from said bracket and releasably attached to said support member by releasable fastening means, .Iaddend.mounting said bracket on said support member and for selectively permitting rotation of said bracket relative to said support member upon .[.adjustment of said control member.].only partial release of said fastening means.
+2. The apparatus of claim 1 wherein said adjustment means comprises interengaging screw threads threadably mounting said cable means on said bracket.
+3. The apparatus of claim 2 wherein said cable means comprises of flexible cable reciprocally mounted in a sheath, an end of said cable connected to said control member and said sheath having a coupling member secured thereon and threadably attached to said bracket by said interengaging screw threads.
+4. The apparatus of claim 1 wherein said bracket is tubular and has a flange formed on a lower end thereof and disposed in abutting relationship on said support member.
+5. The apparatus of claim 4 wherein said retaining means comprises a clamping member defining an annular recess accommodating the flange of said bracket therein and releasable fastening means releasably attaching said flange member to said support member.
+6. The apparatus of claim 1 wherein said adjustment means comprises a coupling member secured on said cable means and threadably attached to said bracket by interengaging screw threads.
+7. The apparatus of claim 6 further comprising a lock nut threadably mounted on said coupling member for locking said coupling member in a predetermined axial position relative to said bracket.
+8. The apparatus of claim 1 further comprising annular sealing means disposed in an annular recess defined on a lower end of said bracket and abutting said support member in sealing contact therewith.
+9. The apparatus of claim 1 wherein an end of said cable means connected to said control member has a U-shaped slot formed therein and wherein said control member has a pin secured thereon, said pin disposed on said slot.
+10. The apparatus of claim 1 wherein said control member constitutes a lever secured on a rock shaft.
+11. The apparatus of claim 1 wherein said support member constitutes a housing having said control member disposed internally therein and wherein said bracket and said retaining means are each mounted externally on said housing.
+12. A method for adjusting a cable-controlled .Iadd..[.apparatuss.]..Iaddend. .Iadd.apparatus .Iaddend.comprising a housing, a control member movably mounted in said housing, a flexible push-pull cable means having a cable reciprocally mounted in a sheath thereof, a bracket detachably mounted on said housing and having said cable adjustably mounted for axial movement therein and a clamping member releasably clamping said bracket to saidhousing by .Iadd.by fasteners, .Iaddend.comprising the steps of
+releasing said clamping member from said housing .Iadd.by only partially releasing said fasteners, .Iaddend.
+rotating said bracket and simultaneously moving said cable means axially and also moving said control member, and
+reclamping said clamping member to said housing .Iadd.by retightening said fasteners .Iaddend.to secure said bracket against rotation relative to said housing.
+13. The method of claim .[.11.]. .Iadd.12 .Iaddend.further comprising the step of locking said cable means against axial movement relative to said bracket.

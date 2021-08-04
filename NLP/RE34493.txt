@@ -1,0 +1,181 @@
+Claims (42)
+Hide Dependent 
+What is claimed as new and desired to be secured by Letters Patent of the United States is:
+1. Apparatus for loading and unloading objects, said apparatus comprising:
+(a) a first carriage;
+(b) first means for moving said first carriage back and forth in a straight line in a first plane between a first position and a second position, said first means comprising:
+(i) a first chain having a first run that is parallel to or in said first plane;
+(ii) third means for attaching said first carriage to said first run of said first chain; and
+(iii) fourth means for moving said first run of said first chain back and forth;
+(c) a second carriage; and
+(d) second means for moving said second carriage back and forth between said first position and said second position such that, when said first carriage is in said first position, said second carriage is in said second position and, as said first carriage moves to said second position, said second carriage moves out of said first plane, then back into said first plane and into said first position, said second means comprising:
+(i) a gantry;
+(ii) a second chain having a first run that is parallel to or in said first plane;
+(iii) fifth means for attaching said gantry to said first run of said second chain; and
+(iv) sixth means for moving said second carriage up and down relative to said gantry, said sixth means comprising a third chain a first end of which is attached to said second carriage.
+2. Apparatus as recited in claim 1 wherein:
+(a) said first plane is a horizontal plane and
+(b) during its movement from said first position to said second position and vice-versa, said second carriage moves vertically out of said first plane, then moves horizontally in a second horizontal plane, and then moves vertically back into said first plane.
+3. Apparatus as recited in claim 1 wherein said fourth means comprises a first fluid cylinder.
+4. Apparatus as recited in claim 1 wherein said gantry and said first carriage move simultaneously.
+5. Apparatus as recited in claim 1 wherein a second end of said third chain is fixed relative to said gantry.
+6. Apparatus for loading and unloading objects, said apparatus comprising:
+(a) a first carriage;
+(b) first means for moving said first carriage back and forth in a straight line in a first plant between a first position and a second position, said first means comprising:
+(i) a first chain having a first run that is parallel to or in said first plane;
+(ii) third means for attaching said first carriage to said first run of said first chain; and
+(iii) fourth means for moving said first run of said first chain back and forth;
+(c) a second carriage; and
+(d) second means for moving said second carriage back and forth between said first position and said second position such that, when said first carriage is in said first position, said second carriage is in said second position and, as said first carriage moves to said second position, said second carriage moves out of said first plane, then back into said first plane and into said first position, said second means comprising:
+(i) a gantry;
+(ii) a second chain having a first run that is parallel to or in said first plane;
+(iii) fifth means for attaching said gantry to said first run of said second chain; and
+(iv) sixth means for moving said second carriage up and down relative to said gantry, said sixth means comprising:
+(A) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston;
+(B) a first sheave mounted on said piston; and
+(C) a third chain trained over said first sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+7. Apparatus as recited in claim 6 wherein said sixth means further comprise:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+8. Apparatus for loading and unloading objects, said apparatus comprising:
+(a) a first carriage;
+(b) first means for moving said first carriage back and forth in a straight line in a first plane between a first position and a second position;
+(c) a second carriage; and
+(d) second means for moving said second carriage back and forth between said first position and said second position such that, when said first carriage is in said first position, said second carriage is in said second position and, as said first carriage moves to said second position, said second carriage moves out of said first plane, then back into said first plane and into said first position, said second means comprising:
+(i) a gantry;
+(ii) a second chain having a first run that is parallel to or in said first plane;
+(iii) seventh means for attaching said gantry to said first run of said second chain; and
+(iv) eight means for moving said second carriage relative t said gantry, said eighth means comprising:
+(A) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston;
+(B) a first sheave mounted on said piston; and
+(C) a third chain trained over said first sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+9. Apparatus as recited in claim 8 wherein said gantry and said first carriage move simultaneously.
+10. Apparatus as recited in claim 8 wherein a second end of said second chain is fixed relative to said gantry.
+11. Apparatus as recited in claim 8 wherein said eighth means further comprises:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+12. Apparatus as recited in claim 1 wherein:
+(a) said sixth means further comprise:
+(i) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston and
+(ii) a first sheave mounted on said piston and
+(b) said third chain is trained over said first sheave and has a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+13. Apparatus as recited in claim 12 wherein said sixth means further comprise:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+14. Apparatus as recited in claim 6 wherein:
+(a) said first plane is a horizontal plane and
+(b) during its movement from said first position to said second position and vice versa, said second carriage moves vertically out of said first plane, then moves horizontally in a second horizontal plane, and then moves vertically back into said first plane.
+15. Apparatus as recited in claim 6 wherein said fourth means comprises a first fluid cylinder.
+16. Apparatus as recited in claim 6 wherein said gantry and said first carriage move simultaneously.
+17. Apparatus as recited in claim 6 wherein a second end of said third chain is fixed relative to said gantry.
+18. Apparatus as recited in claim 8 wherein:
+(a) said first plane is a horizontal plane and
+(b) during its movement from said first position to said second position and vice versa, said second carriage moves vertically out of said first plane, then moves horizontally in a second horizontal plane, and then moves vertically back into said first plane.
+19. Apparatus as recited in claim 8 wherein said first means comprise:
+(a) a first chain having a first run that is parallel to or in said first plane;
+(b) third means for attaching said first carriage to said first run of said first chain; and
+(c) fourth means for moving said first run of said first chain back and forth.
+20. Apparatus as recited in claim 19 wherein said fourth means comprises a first fluid cylinder.
+21. Apparatus for loading and unloading objects, said apparatus comprising:
+(a) a base;
+(b) a gantry mounted on said base and projecting upwardly therefrom;
+(c) a first carriage mounted on said base;
+(d) first means for moving said first carriage back and forth in a straight line on said base between a first position and a second position;
+(e) a second carriage mounted on said gantry and positionable in either said first position or said second position;
+(f) second means for moving said second carriage up and down relative to said gantry;
+(g) third means for moving said gantry back and forth in a straight line on said base; and
+(h) fourth means for interrelating said first means and said second and third means such that, when said first carriage is in said first position, said second carriage is in said second position and, as said first carriage moves from said first position to said second position, said second carriage moves upwardly on said gantry from said second position, then said gantry moves relative to said base, and then said second carriage moves downwardly on said gantry and into said first position.
+22. Apparatus as recited in claim 21 wherein said first means comprises:
+(a) a first chain having a first run that is parallel to said first base;
+(b) fourth means for attaching said first carriage to said first run of said first chain; and
+(c) fifth means for moving said first run of said first chain back and forth.
+23. Apparatus as recited in claim 22 wherein said fifth means comprises a first fluid cylinder.
+24. Apparatus as recited in claim 22 wherein said third means comprise:
+(a) a second chain having a first run that is parallel to said base and
+(b) sixth means for attaching said gantry to said first run of said second chain.
+25. Apparatus as recited in claim 24 wherein said gantry and said first carriage moves simultaneously.
+26. Apparatus as recited in claim 24 wherein said second means comprises a third chain a first end of which is attached to said second carriage.
+27. Apparatus as recited in claim 26 wherein a second end of said third chain is fixed relative to said gantry.
+28. Apparatus as recited in claim 24 wherein said second means comprise:
+(a) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston;
+(b) a first sheave mounted on said piston; and
+(c) a third chain trained over said first sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+29. Apparatus as recited in claim 28 wherein said second means further comprise:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+30. Apparatus as recited in claim 21 wherein said third means comprises:
+(a) a second chain having a first run that is parallel to said base and
+(b) seventh means for attaching said gantry to said first run of said second chain.
+31. Apparatus as recited in claim 30 wherein said gantry and said first carriage moves simultaneously.
+32. Apparatus as recited in claim 30 wherein said second means comprises a third chain a first end of which is attached to second carriage.
+33. Apparatus as recited in claim 32 wherein a second end of said second chain is fixed relative to said gantry.
+34. Apparatus as recited in claim 30 wherein said second means comprises:
+(a) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston;
+(b) a first sheave mounted on said piston; and
+(c) a third chain trained over said first sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry.
+35. Apparatus as recited in claim 34 wherein said second means further comprises:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry. .Iadd.
+36. Apparatus for loading and unloading objects, said apparatus comprising:
+(a) a first carriage;
+(b) first means for moving said first carriage back and forth in a straight line in a first plane between a first position and a second position;
+(c) a second carriage; and
+(d) second means for moving said second carriage back and forth between a first position and a second position such that:
+(i) said first position of said second carriage is at least substantially identical to said second position of said first carriage and said second position of said second carriage is spaced vertically from said first position of said first carriage and
+(ii) when said first carriage is in its first position, said second carriage is in its second position and, as said first carriage moves to its second position, said second carriage moves out of said first plane and to its second position. .Iaddend. .Iadd.37. Apparatus as recited in claim 36 wherein said first means comprise:
+(a) a first chain having a first run that is parallel to or in said first plane;
+(b) third means for attaching said firth carriage to said first run of said first chain; and
+(c) fourth means for moving said first run of said first chain back and
+forth. .Iaddend. .Iadd.38. Apparatus as recited in claim 37 wherein said fourth means comprise a first fluid cylinder. .Iaddend. .Iadd.39. Apparatus as recited in claim 36 wherein said second means comprise:
+(a) a gantry;
+(b) a second chain having a first run that is parallel to or in said first plane;
+(c) fifth means for attaching said gantry to said first run of said second chain; and
+(d) sixth means for moving said second carriage up and down relative to said gantry. .Iaddend. .Iadd.40. Apparatus as recited in claim 39 wherein said sixth means comprise a third chain a first end of which is attached to said second carriage. .Iaddend. .Iadd.41. Apparatus as recited in claim 39 wherein said gantry and said first carriage move simultaneously. .Iaddend. .Iadd.42. Apparatus as recited in claim 40 wherein a second end
+of said third chain is fixed relative to said gantry. .Iaddend. .Iadd.43. Apparatus as recited in claim 39 wherein said sixth means comprise:
+(a) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston;
+(b) a first sheave mounted on said piston; and
+(c) a third chain trained over said first sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry. .Iaddend. .Iadd.44. Apparatus as recited in claim 43 wherein said sixth means further comprise:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry. .Iaddend. .Iadd.45. Apparatus as recited in claim 36 wherein:
+(a) said first plane is a horizontal plane and
+(b) during its movement from its first position to its second position, said second carriage moves vertically out of said first plane, then moves horizontally in a second horizontal plane. .Iaddend. .Iadd.46. Apparatus as recited in claim 36 wherein said second position of said second carriage is spaced vertically above said first position of said first
+carriage. .Iaddend. .Iadd.47. Apparatus for loading and unloading objects, aid apparatus comprising:
+(a) a base;
+(b) a gantry mounted on said base and projecting upwardly therefrom;
+(c) a first carriage mounted on said base;
+(d) first means for moving said first carriage back and forth in a straight line on said base between a first position and a second position;
+(e) a second carriage mounted on said gantry and positionable in either:
+(i) a first position that is at least substantially identical to said second position of said first carriage and
+(ii) a second position that is spaced vertically from said first position of said first carriage;
+(f) second means for moving said second carriage up and down relative to said gantry;
+(g) third means for moving said gantry back and forth in a straight line on said base; and
+(h) fourth means for interrelating said first means and said second and third means such that:
+(i) when said first carriage is in its first position, aid second carriage is in its first position;
+(ii) as said first carriage moves from its first position to its second position, said second carriage moves from its first position to its second position; and
+(iii) as said first carriage moves from its second position to its first position, said second carriage moves from its second position to its first
+position. .Iaddend. .Iadd.48. Apparatus as recited in claim 47 wherein said first means comprise:
+(a) a first chain having a first run that is parallel to said base;
+(b) fifth means for attaching said first carriage to said first run of said first chain; and
+(c) sixth means for moving said first run of said first chain back and forth. .Iaddend. .Iadd.49. Apparatus as recited in claim 48 wherein said fifth means comprise a first fluid cylinder. .Iaddend. .Iadd.50. Apparatus as recited in claim 47 wherein said third means comprise:
+(a) a second chain having a first run that is parallel to said base and
+(b) seventh means for attaching said gantry to said first run of said
+second chain. .Iaddend. .Iadd.51. Apparatus as recited in claim 50 wherein said gantry and said first carriage move simultaneously. .Iaddend. .Iadd.52. Apparatus as recited in claim 47 wherein said second means comprise a third chain a first end of which is attached to said second carriage. .Iaddend. .Iadd.53. Apparatus as recited in claim 52 wherein a second end of said third chain is fixed relative to said gantry. .Iaddend. .Iadd.54. Apparatus as recited in claim 47 wherein said second means comprise:
+(a) a second fluid cylinder comprising a cylinder mounted on said gantry and a piston;
+(b) a first sheave mounted on said piston; and
+(c) a third chain trained over said first sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry. .Iaddend. .Iadd.55. Apparatus as recited in claim 54 wherein said second means further comprise:
+(a) a second sheave mounted on said piston and
+(b) a fourth chain trained over said second sheave and having a first end attached to said second carriage and a second end attached to said cylinder or to said gantry. .Iaddend. .Iadd.56. Apparatus as recited in claim 47 wherein said third means comprise:
+(a) a second chain having a first run that is parallel to said base and
+(b) eighth means for attaching said gantry to said first run of said second
+chain. .Iaddend. .Iadd.57. Apparatus for loading and unloading objects, said apparatus comprising:
+(a) a first carriage;
+(b) first means for moving said first carriage back and forth in a straight line in a first plane between a first position and a second position;
+(c) a second carriage; and
+(d) second means for moving said second carriage back and forth between a first position and a second position such that:
+(i) said first position of said second carriage is at least substantially identical to said second position of said first carriage and said second position of said second carriage is at least substantially identical to said first position of said first carriage and
+(ii) when said first carriage is in its first position, said second carriage is in its second position and, as said first carriage moves to its second position, said first second carriage moves out of said first plane and to its second position. .Iaddend. .Iadd.58. Apparatus as recited in claim 57 wherein said first means comprise:
+(a) a first chain having a first run that is parallel to or in said first plane;
+(b) third means for attaching said first carriage to said first run of said first chain; and
+(c) fourth means for moving said first run of said first chain back and forth. .Iaddend. .Iadd.59. Apparatus as recited in claim 58 wherein said fourth means comprise a first fluid cylinder. .Iaddend. .Iadd.60. Apparatus as recited in claim 57 wherein:
+(a) said first plane is a horizontal plane and
+(b) during its movement from its first position to its second position, said second carriage moves vertically out of said first plane, then moves horizontally in a second horizontal plane. .Iaddend.

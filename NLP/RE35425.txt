@@ -1,0 +1,47 @@
+Claims (10)
+Hide Dependent 
+What is claimed is:
+1. A universal starter motor assembly including:
+a starter motor with an armature supported by an armature shaft having an external end;
+an armature gear held to the external end of the armature shaft;
+an idler gear driven by said armature gear and supported on an idler gear bearing pin;
+a clutch assembly including a clutch assembly drive gear which is turned by said idler gear, said clutch assembly including .[.an.]. .Iadd.a .Iaddend.clutch assembly outer bearing;
+a pinion gear shaft, having an end, passing in an axial manner through said clutch assembly drive gear and being supported by said clutch assembly outer bearing and by an inner bearing wherein said starter motor may be affixed to many different types of engines by an adapter assembly comprising:
+a face plate having:
+an opening which surrounds thee clutch assembly drive gear;
+an outer face .[.which is inboard of the clutch assembly outer bearing.].; and
+means for the attachment of a mounting adapter to said face plate;
+a plurality of different mounting adapters, each mounting adapter including:
+an adapter inner face configured to mate with the outer face of said face plate;
+an adapter outer face;
+a pinion gear access opening;
+a clutch assembly outer bearing support recess accessible from said inner face;
+means for attachment of the assembly to an engine, the configuration of said means for attachment of the assembly being dictated by the configuration of the engine to which it will be attached; and
+means for affixing the mounting adapter to said face plate, said means for affixing the mounting adapter to said face plate being accessible from the exterior of the starter motor assembly.
+2. The universal starter motor assembly of claim 1 wherein said means for the attachment of a mounting adapter to said face plate and said means for affixing the mounting adapter to the face plate comprise threaded openings which extend inwardly from said outer face of said face plate and a plurality of bolts extending through bolt holes in the mounting adapter.
+3. The universal starter motor assembly of claim 2 wherein there are three threaded openings.
+4. The universal starter motor assembly of claim 1 wherein the outer face of said face plate is generally planar.
+5. The universal starter motor assembly of claim 2 wherein said bolt holes in said mounting adapter comprise stepped openings accessible from the adapter outer face.
+6. The universal starter motor assembly of claim 1 further including means for removing and replacing the pinion gear from the pinion gear shaft without having to remove the pinion gear shaft from the starter motor, said means comprising a splined portion on said pinion gear shaft near the end thereof, a mating splined opening on said pinion gear, a recessed ring in the pinion gear shaft near the end thereof, a retaining ring cup surrounding said pinion gear shaft, said retaining ring cup including a recess and a retaining ring removably held in said recessed ring and held therein by said recess of said retaining ring cup.
+7. The universal starter motor assembly of claim 1 wherein said means for attachment of the assembly to an engine are mounting holes which are normal to the adapter inner face.
+8. The universal starter motor assembly of claim 1 wherein said means for attachment of the assembly to an engine are mounting holes which are parallel to the adapter inner face.
+9. A universal starter motor assembly including:
+a starter motor with an armature supported by an armature shaft having an external end;
+an armature gear held to the external end of the armature shaft;
+an idler gear driven by said armature gear and supported on an idler gear bearing pin;
+a clutch assembly including a clutch assembly drive gear which is turned by said idler gear, said clutch assembly including an clutch assembly outer bearing;
+a pinion gear shaft passing in an axial manner through said clutch assembly drive gear and being supported in part by said clutch assembly outer bearing and in part by an inner bearing wherein said starter motor may be affixed to many different types of engines by an adapter assembly comprising:
+a removable face plate having:
+an opening which surrounds the clutch assembly drive gear;
+an outer face which is outboard of the idler gear and the armature gear .[.and inboard of the clutch assembly outer bearing.].;
+an inner face including a recess for surrounding said armature gear and said idler gear, said recess having an inner face which supports said idler gear bearing pin; and
+means for attachment of an adapter plate thereto;
+a plurality of different mounting adapters, each mounting adapter including:
+an adapter inner face configured to mate with the outer face of said face plate;
+an adapter outer face;
+a pinion gear access opening;
+a clutch assembly outer bearing support recess accessible from said inner face;
+a plurality of mounting holes for attachment of the assembly to an engine, the configuration of said mounting holes being dictated by the configuration of the engine to which it will be attached;
+means for affixing the mounting adapter to said means for attachment of an adapter plate thereto of said face plate, said means for affixing the mounting adapter being accessible from the exterior of the starter motor assembly; and
+means for removing and replacing the pinion gear from the pinion gear shaft without having to remove the pinion gear shaft from the starter motor.
+10. The universal starter motor assembly of claim 9 wherein said removable face plate has a centering ring extending inboard from said inner face surrounding more than half way around said opening which surrounds the clutch assembly drive gear.

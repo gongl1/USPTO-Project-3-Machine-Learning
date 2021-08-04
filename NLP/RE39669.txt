@@ -1,0 +1,58 @@
+Claims (18)
+Hide Dependent 
+1. A transmission device of a four-wheel drive vehicle, comprising:
+an input shaft connected to an engine for transmitting a driving force;
+a hollow counter shaft extended in parallel to said input shaft;
+shift gear trains provided between said input shaft and said hollow counter shaft;
+a first output shaft disposed in a hollow portion of said counter shaft for transmitting the driving force to a final reduction gear of one of front and rear wheels;
+a first drive gear disposed at an end portion of said counter shaft;
+a first driven gear engaging with said first drive gear and rotating about a rotating axis of said input shaft;
+a second drive gear rotated integrally with the first driven gear about the rotating axis of said input shaft;
+a second driven gear disposed at a base end side of the first output shaft and engaging with said second drive gear; and
+a second output shaft coupled with said second drive gear through a variable mechanism to transmit the driving force to a final reduction gear of the other one of the front and rear wheels.
+2. The transmission device according to claim 1, wherein said first output shaft transmits the driving force to the final reduction gear of the front wheel, and said second output shaft transmits the driving force to the final reduction gear of the rear wheel.
+3. The transmission device according claim 1, further comprising:
+a partition wall for shutting off infiltration of an oil between a first space at a first side having the input shaft and a second space at a second side having the first drive gear.
+4. The transmission device according to claim 1, wherein the variable mechanism comprises a viscous-coupling.
+5. The transmission device according to claim 1, wherein the variable mechanism comprises a hydraulic multiple disk clutch.
+6. The transmission device according to claim 5, further comprising:
+an engine-driven oil pump for generating a hydraulic pressure to operate the hydraulic multiple disk clutch.
+7. The transmission device according to claim 3, wherein the variable mechanism comprises:
+a hydraulic multiple disk clutch; and
+an engine-driven oil pump disposed at the partition wall for generating hydraulic pressure to operate the hydraulic multiple disk clutch.
+8. A manual transmission device mounted on a four wheel drive vehicle and housed in a transmission case, having an input shaft connected to an engine for transmitting a driving force thereof to either one of final reduction gears via front and rear output shafts, said device comprising:
+a hollow counter shaft provided under said input shaft in parallel with thereof for transmitting said driving force;
+a shift gear train provided between said input shaft and said hollow counter shaft for changing a relative speed therebetween;
+a first output shaft mechanically and rotatably inserted in said hollow counter shaft for transmitting said driving force to either one of said final reduction gears;
+a first drive gear fixedly provided at an end portion of said counter shaft;
+a first driven gear approximately coaxially provided behind said input shaft for engaging said first drive gear, a rotating axis of said hollow counter shaft being displaced from said input shaft;
+a second drive gear integrally formed with said first driven gear;
+a second driven gear coaxially provided at a base end portion of said first output shaft for meshing with said second drive gear;
+torque transmitting capacity variable means provided at a rear side of said second drive gear for changing a transmitting rate of said driving force between said formal reduction gear and said input shaft; and
+a second output shaft coupled with said second drive gear for transmitting said driving force to said final reduction gear so as to effectively improve a fuel consumption economy by decreasing a stirring resistance force of a lubricating oil contained in said transmission case by raising a level of said lubricating oil therein while in operation and to largely shorten a developing period by using common parts of other various kinds of transfer mechanisms.
+9. The transmission device according to claim 8, wherein:
+said first output shaft transmits said driving force to said front reduction gear.
+10. The transmission device according claim 8, comprising:
+a transfer case portion integrally formed behind said transmission case and separated by a partition wall therefrom for including said first drive gear.
+11. The transmission device according to claim 8, wherein:
+said torque transmitting capacity variable means comprises a viscous coupling.
+12. The transmission device according to claim 8, wherein:
+said torque transmitting capacity variable means comprises a hydraulic multiple disk clutch.
+13. The transmission device according to claim 10, further comprising:
+an oil pump driven by said engine and mounted on said partition wall for generating a hydraulic pressure to operate said hydraulic multiple disk clutch.
+14. A transmission device of a four-wheel drive vehicle, comprising:
+an input shaft connected to an engine for transmitting a driving force;
+a hollow counter shaft extended in parallel to said input shaft;
+shift gear trains provided between said input shaft and said hollow counter shaft;
+a first output shaft disposed in a hollow portion of the hollow counter shaft for transmitting the driving force to a final reduction gear of one of front and rear wheels;
+a first drive gear disposed at an end portion of said counter shaft;
+a first driven gear engaging with the first drive gear and rotating about a rotating axis of said input shaft;
+a second drive gear rotated about the rotating axis of said input shaft;
+a second driven gear disposed at a base end side of the first output shaft and engaging with said second drive gear;
+a second output shaft coupled with one of said first driven gear and said second drive gear to transmit the driving force to a final reduction gear of the other one of the front and rear wheels; and
+a variable mechanism for varying a torque transmitting capacity,
+wherein the second output shaft is coupled with the first driven gear through the variable mechanism, or the second drive gear is coupled with the first driven gear through the variable mechanism.
+15. The transmission device according to claim 14, wherein the second output shaft is coupled with said second drive gear, and the second output shaft is coupled with the first driven gear through the variable mechanism.
+16. The transmission device according to claim 14, wherein the second output shaft is coupled with said first driven gear, and the second drive gear is coupled with the first driven gear through the variable mechanism.
+17. The transmission device according to claim 14, wherein said variable mechanism comprises a torque coupling mechanism.
+18. The transmission device according to claim 17, wherein said torque coupling mechanism comprises a viscous-coupling or a hydraulic multiple disk clutch.

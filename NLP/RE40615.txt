@@ -1,0 +1,76 @@
+Claims (52)
+Hide Dependent 
+1. Gearshift device for a motor vehicle comprising:
+an input unit for receiving input data, said input unit being connected via at least one data line to a first controller for controlling an actuator unit for setting a gearbox of a motor vehicle; and
+at least one second controller which is independent of the first controller; wherein
+apart from the first controller, the second controller is connected to the input unit via at least one data line; and
+upon occurrence of a fault in the first controller, the actuator unit can be controlled at least partially by means of the second controller correspondingly to the first controller.
+2. The gearshift device according to claim 1, wherein the second controller:
+receives at least partly the same input data as the first controller;
+performs at least in part the same evaluation, and
+monitors the first controller.
+3. The gearshift device according to claim 2, wherein upon occurrence of a fault, with an unacceptable deviation between an evaluated output variable of the first controller and an evaluated output variable of the second controller, the second controller deactivates the first controller, and at least partially takes over the operation of the first controller.
+4. The gearshift device according to claim 1, wherein each controller is connected to the actuator unit via a respective tristate line.
+5. The gearshift device according to claim 4, wherein:
+the respective tristate lines of the controllers are connected to one another; and
+upon occurrence of a fault, the second controller short-circuits at least one tristate line, deactivating the first controller via a current limiter.
+6. The gearshift device according to claim 1, wherein upon occurrence of a fault, in a deactivated state of the controllers, the actuator unit assumes or maintains a position in which a flow of force between the gearbox and an internal combustion engine of the vehicle is interrupted.
+7. The gearshift device according to claim 1, wherein the controllers are connected to a data network of the motor vehicle.
+8. The gearshift device according to claim 1, wherein at least one of the two controllers can be used for at least one further control function apart from control functions of the gearbox.
+9. The gearshift device according to claim 1, wherein:
+the actuator unit includes at least one first actuator, and at least one second actuator which is independent of the first actuator;
+the first actuator is used, in normal operation, for setting a driving position and a neutral position at the gearbox; and
+the second actuator is used for operating a parking lock in a park position of the gearbox.
+10. The gearshift device according to claim 9, wherein the first actuator is arranged in a gearbox housing.
+11. The gearshift device according to claim 10, wherein the first actuator acts directly on an hydraulic slide valve.
+12. The gearshift device according to claim 9, wherein the second actuator is arranged in a gearbox housing.
+13. The gearshift device according to claim 9, wherein the second actuator is arranged outside a gearbox housing; and
+a parking brake can be operated by means of the second actuator.
+14. The gearshift device according to claim 13, wherein the parking lock and the parking brake are constructed of a single piece.
+15. The gearshift device according to claim 9, wherein the parking lock is self-locking only below a certain traveling speed.
+16. The gearshift device according to claim 9, wherein a braking unit for decelerating the motor vehicle from relatively great speeds can be operated via the second actuator.
+17. The gearshift device according to claim 9, wherein, upon occurrence of a fault in the first actuator, the gearbox can be adjusted via the second actuator.
+18. The gearshift device according to claim 1, wherein:
+the input unit has at least one first input device and a second input device which is independent of the first input device; and
+upon occurrence of a fault at the first input device, input data intended at least partially for the first input device can be input via the second input device.
+19. The gearshift device according to claim 18, wherein in normal operation, the second input device has a function which differs from that of the first input device.
+20. The gearshift device according to claim 18, wherein the second input device is integrated in a steering wheel of the motor vehicle.
+21. The gearshift device according to claim 1, wherein input data can be entered orally into the input unit.
+22. The gearshift device according to claim 21, wherein a state of readiness to receive can be activated in the input unit by one of a key and a special oral command.
+23. The gearshift device according to claim 1, wherein information relating to the gearbox can be output via loudspeakers.
+24. The gearshift device according to claim 23, wherein the loudspeakers are part of another system existing on the vehicle.
+25. The gearshift device according to claim 1, wherein at least one controller is connected to a driver assistance system.
+26. The gearshift device according to claim 25, wherein, when the motor vehicle is being parked, the actuator unit automatically closes a parking lock.
+27. The gearshift device according to claim 26, wherein, when a desire to drive off has been detected, the actuator unit automatically releases the parking lock.
+28. The gearshift device according to claim 25, wherein, when a standstill of the motor vehicle is desired, the actuator unit interrupts a flow of force between the gearbox and an internal combustion engine.
+29. The gearshift device according to claim 25, wherein, in the case of an impending impact of the motor vehicle against an object, at least one of the controller and the driver assistance system intervenes in the vehicle control and counteracts the impact.
+30. The gearshift device according to claim 25, wherein in the case of a movement of the motor vehicle in an unwanted direction, the actuator unit prevents the movement via a parking lock.
+31. Gearshift device for a motor vehicle comprising:
+an input unit for receiving input data, said input unit being connected via at least one data line to a controller for controlling an actuator unit for setting a gearbox of a motor vehicle;
+wherein the actuator unit includes at least one first actuator and at least one second actuator which is independent of the first actuator;
+the first actuator is used, in normal operation, for setting a driving position and a neutral position at the gearbox; and
+the second actuator is used for operating a parking lock in a park position of the gearbox.
+32. The gearshift device according to claim 31, wherein the first actuator is arranged in a gearbox housing.
+33. The gearshift device according to claim 32, wherein the first actuator acts directly on an hydraulic slide valve.
+34. The gearshift device according to claim 31, wherein the second actuator is arranged in a gearbox housing.
+35. The gearshift device according to claim 31, wherein the second actuator is arranged outside a gearbox housing; and
+a parking brake can be operated by means of the second actuator.
+36. The gearshift device according to claim 35, wherein the parking lock and the parking brake are constructed of a single piece.
+37. The gearshift device according to claim 31, wherein the parking lock is self-locking only below a certain traveling speed.
+38. The gearshift device according to claim 31, wherein a braking unit for decelerating the motor vehicle from relatively great speeds can be operated via the second actuator.
+39. The gearshift device according to claim 31, wherein, upon occurrence of a fault in the first actuator, the gearbox can be adjusted via the second actuator.
+40. The gearshift device according to claim 31, wherein:
+the input unit has at least one first input device and a second input device which is independent of the first input device; and
+upon occurrence of a fault at the first input device, input data intended at least partially for the first input device can be input via the second input device.
+41. The gearshift device according to claim 40, wherein in normal operation, the second input device has a function which differs from that of the first input device.
+42. The gearshift device according to claim 40, wherein the second input device is integrated in a steering wheel of the motor vehicle.
+43. The gearshift device according to claim 31, wherein input data can be entered orally into the input unit.
+44. The gearshift device according to claim 43, wherein a state of readiness to receive can be activated in the input unit by one of a key and a special oral command.
+45. The gearshift device according to claim 31, wherein information relating to the gearbox can be output via loudspeakers.
+46. The gearshift device according to claim 45, wherein the loudspeakers are part of another system existing on the vehicle.
+47. The gearshift device according to claim 31, wherein at least one controller is connected to a driver assistance system.
+48. The gearshift device according to claim 47, wherein, when the motor vehicle is being parked, the actuator unit automatically closes a parking lock.
+49. The gearshift device according to claim 48, wherein, when a desire to drive off has been detected, the actuator unit automatically releases the parking lock.
+50. The gearshift device according to claim 47, wherein, when a standstill of the motor vehicle is desired, the actuator unit interrupts a flow of force between the gearbox and an internal combustion engine.
+51. The gearshift device according to claim 47, wherein, in the case of an impending impact of the motor vehicle against an object, at least one of the controller and the driver assistance system intervenes in the vehicle control and counteracts the impact.
+52. The gearshift device according to claim 47, wherein in the case of a movement of the motor vehicle in an unwanted direction, the actuator unit prevents the movement via a parking lock.

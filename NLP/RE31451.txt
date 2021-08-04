@@ -1,0 +1,294 @@
+Claims (52)
+Hide Dependent 
+I claim:
+1. In a shifter for operating a manual transmission with a pair of flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement of one of said cables; and
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement of said other of said cables the improvement comprising:
+said means for translating rotation of said shift lever and said carrier about said second axis to the cable displacement of said other cable comprises a member pivotably mounted on said base about an axis offset from said first and second axes; .Iadd.
+joint connection .Iaddend.means for operatively connecting said carrier to said member.Iadd., said joint connection means providing for articulated motion between said carrier and said member with minimal lost motion.Iaddend.; and
+means for securing the said other of said flexible cables to said member.
+2. The shifter of claim 1 wherein said shift lever includes lockout means for locking said shift lever out of the reverse position.
+3. The shifter of claim 1 .[.further including.]. .Iadd.wherein said joint connection means further comprises .Iaddend.means for accommodating flexible shielded cables at angles incident to said first and second orthogonal axes without bending of said cables in a manner that shortens cable life and effectiveness.
+4. The shifter of claim 1 further including spring detent means for improving the feel of the shifter.
+5. The shifter of claim 4 wherein said spring detent means comprises:
+an undulated wire spring secured to said carrier;
+a follower disposed on said shift lever for following said undulated wire spring; and
+depressions in said undulated wire to accommodate said follower when said shift lever is in a fully engaged position.
+6. The shifter of claim 5 wherein said follower comprises a roller journaled on said shift lever at a point below said first axis said roller including a circumferential groove for receiving said spring.
+7. The shifter of claim 1 wherein said means for translating rotation of said shift lever about said first axis to a cable displacement comprises:
+a stamped metal handle bracket, said handle bracket being secured to said shift lever and extending below said first axis; and
+means for pivotally securing a flexible shielded cable to said handle bracket below said first axis.
+8. The shifter of claim 7 wherein said handle bracket further includes a post including a rubber bumper, and said carrier further includes a pair of opposing flanges, said post and said opposing flanges defining the limits of rotation of said shift lever about said first axis.
+9. The shifter of claim 1 wherein said member is:
+a bell crank pivotably mounted on said base;
+means for connecting said .[.carrier.]. .Iadd.joint connection means .Iaddend.to one end of said bell crank; and
+means for pivotally securing a flexible shielded cable to the other end of said bell crank.
+10. The shifter of claim 9 .[.further including.]. .Iadd.wherein said joint connection means further comprises .Iaddend.means for accommodating flexible shielded cables at angles incident to said first and second orthogonal axes without bending of said cables in a manner that shortens cable life and effectiveness.
+11. The shifter of claim 1 wherein said base comprises a stamped metal base plate.
+12. The shifter of claim 11 wherein said stamped metal base plate includes:
+means for securing the shifter to an automotive vehicle body;
+means for securing the shields of a pair of flexible shielded cables thereto; and
+a stamped metal tower secured thereto for receiving said carrier.
+13. The shifter of claim 12 wherein said means for securing the shields of a pair of flexible shielded cables comprises:
+an extended portion of said stamped metal base formed at an angle generally parallel to the incident angle of the incoming cables;
+a flange disposed on the end of said extended portion, said flange extending in a direction generally orthogonal to the incident angle of the cables;
+grooved circumferential retaining cups for receiving a circlip disposed on the shields of the cables; and
+apertures in said flange for securing said grooved circumferential retaining cups with a circlip.
+14. The shifter of claim 1 wherein said carrier comprises a stamped metal part.
+15. The shifter of claim 1 wherein said shifter controls a four forward speed manual transmission with an "H" pattern, movements of the shift lever along the vertical sides of the "H" pattern being accommodated by rotation of said shift lever about said first axis and displacement of a first flexible, shielded cable, movement of said shift lever horizontally on the "H" pattern between the sides of the "H" pattern being accommodated by rotation of said shift lever and said carrier about said second axis and displacement of a second flexible shielded cable.
+16. The shifter of claim 1 wherein said shifter is floor mounted and controls the gear selection of a four speed forward mounted transmission on a front wheel drive automotive vehicle.
+17. The shifter of claim 16 further including spring detent means for improving the feel of the shifter.
+18. In a shifter for operating a manual transmission with flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement; and
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement, the improvement comprising:
+said means for translating rotation of said shift lever about said first axis to a cable displacement comprises;
+a stamped metal handle bracket, said handle bracket being secured to said shift lever and extending below said first axis; and
+means for pivotally securing a flexible shielded cab to said handle bracket below said first axis;
+said stamped metal handle bracket further including an aperture centered on said first axis;
+a tube clinched in said aperture; and
+a pin received in said tube for pinning and pivotably mounting said stamped metal handle bracket to said carrier.
+19. A shifter for operating a manual transmission with flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement; and
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement, said means comprising a bell crank pivotably mounted on said base;
+means for connecting said carrier to one end of said bell crank; and
+means for pivotally securing a flexible shielded cable to the other end of said bell crank; and
+means for accommodating flexible shielded cables at angles incident to said first and second orthogonal axes without bending of said cables comprising:
+a drive pin secured to said carrier, said .[.guide.]. .Iadd.drive .Iaddend.pin being roughly parallel to said second axis; and
+a ball and socket connection between said drive pin and said bell crank, whereby said bell crank may be pivoted on said base about a third axis canted with respect to said first and second orthogonal axes and generally orthogonal to the incident angle of a flexible shielded cable.
+20. The shifter of claim 19 wherein said ball and socket connection includes a socket injection molded on said bell crank.
+21. A shifter for operating a manual transmission with flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement; and
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement;
+said shift lever including lockout means for locking said shift lever out of the reverse position in which said lockout means comprises:
+a pawl pivotably mounted in said carrier, said pawl being spring biased to a position at which it interferes with said base preventing movement of said carrier and said shift lever to the reverse position;
+an aperture in said base; and
+pawl actuating means disposed on said shift lever for pivoting said pawl out of engagement with said base and into said aperture allowing movement of said carrier and said shift lever to the reverse position.
+22. The shifter of claim 21 wherein said pawl further includes a stop for engaging said base and defining a limit of rotation for said pivotably mounted pawl.
+23. The shifter of claim 21 wherein said pawl actuating means comprises:
+a push button disposed on top of said shift lever; and
+means interconnecting said push button and said pawl for pivoting said pawl when said push button is depressed.
+24. The shifter of claim 23 wherein said means interconnecting said push button and said pawl comprises:
+a spring biased rod running the length of said shift lever, the upper said rod spring biasing said push button up, the lower end of said rod contacting said pawl; and
+a platform on said pawl for receiving the lower end of said rod, said platform being disposed on said pawl with respect to the pivot point such that downward displacement of said push button and said rod pivots said pawl out of engagement with said base.
+25. A shifter for operating a manual transmission with flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement; and
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement comprising:
+a bell crank pivotably mounted on said base; and .Iadd.
+joint connection means for operatively connecting said carrier to said bell crank, said joint connection means providing for articulated motion between said carrier and said bell crank with minimal lost motion, said joint means including .Iaddend.a drive pin secured to said carrier, said .[.guide.]. .Iadd.drive .Iaddend.pin being roughly parallel to said second axis and said drive pin engaging one end of said bell crank.
+26. The shifter of claim 25 further including reverse lockout pawl journaled on said drive pin.
+27. The shifter of claim 25 wherein said drive pin extends through an arcuate slot in said base, the ends of said arcuate slot defining the limits of rotation of said carrier about said second axis.
+28. An "H" pattern shifter for remotely operating a manual transmission with shielded flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.and about said first axis along the sides of the "H" pattern;
+said shift lever and said carrier being pivotable as a unit relative to said base and about said second axis to link the sides of the "H" pattern;
+means for operatively connecting a flexible shielded cable to the shift lever;
+a bell crank pivotably mounted on said base about an axis offset from said first and second axes.[., said carrier operatively engaging one end of said bell crank; and.]..Iadd.;.Iadd.
+joint connection means for operatively connecting one end of said bell crank to said carrier, said joint connection means providing for articulated motion between said carrier and said bell crank with minimal lost motion; and .Iaddend.
+means for connecting a flexible shielded cable to the other end of said bell crank.
+29. The shifter of claim 28 wherein said shift lever includes lockout means for locking said shift lever out of the reverse position.
+30. The shifter of claim 28 .[.further including.]. .Iadd.wherein said joint connection means further includes .Iaddend.means for accommodating flexible shielded cables at .[∠]. .Iadd.angles .Iaddend.incident to said first and second orthogonal axes without bending of said cables in a manner that shortens cable life and effectiveness.
+31. The shifter of claim 30 wherein said means for accommodating flexible shielded cables at angles incident to said first and second orthogonal axes comprises:
+a drive pin secured to said carrier, said guide pin being roughly parallel to said second axis; and
+a ball and socket connection between said drive pin and said bell crank, whereby said bell crank may be pivoted on said base about a third axis canted with respect to said first and second orthogonal axes and generally orthogonal to the incident angle of a flexible shielded cable.
+32. The shifter of claim 31 wherein said ball and socket connection includes a socket injection molded on said bell crank.
+33. The shifter of claim 28 wherein said base comprises a stamped metal base plate.
+34. The shifter of claim 33 wherein said stamped metal base plate includes:
+means for securing the shifter to an automotive vehicle body;
+means for securing the shields of a pair of flexible shielded cables thereto; and
+a stamped metal tower secured thereto for receiving said carrier.
+35. The shifter of claim 34 wherein said means for securing the shields of a pair of flexible shielded cables comprises:
+an extended portion of said stamped metal base extending in a direction generally parallel to the incident angle of the incoming cables;
+a flange disposed on the end of said extended portion, said flange extending in a direction generally orthogonal to the incident angle of the cables;
+grooved circumferential retaining cups for receiving a circlip disposed on the shields of the cables; and
+apertures in said flange for securing said grooved circumferential retaining cups with a circlip.
+36. The shifter of claim 28 wherein said carrier comprises a stamped metal part.
+37. The shifter of claim 28 .[.further including.]. .Iadd.wherein said joint connection means further includes .Iaddend.a drive pin secured in said carrier, said drive pin being disposed roughly parallel to said second axis and said drive pin interconnecting said carrier and said bell crank.
+38. The shifter of claim 37 further including a reverse lockout pawl journaled on said drive pin.
+39. The shifter of claim 39 wherein said drive pin extends through an arcuate slot in said base, the ends of said arcuate slot defining the limits of rotation of said carrier about said second axis.
+40. The shifter of claim 28 wherein said shifter is floor mounted and controls the gear selection of a four speed forward mounted transmission on a front wheel drive automotive vehicle.
+41. An "H" pattern shifter for remotely operating a manual transmission with shielded flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.and about said first axis along the sides of the "H" pattern;
+said shift lever and said carrier being pivotable as a unit relative to said base and about said second axis to link the sides of the "H" pattern;
+means for connecting a flexible shielded cable to the shift lever below said first axis;
+a bell crank pivotably mounted on said base about an axis offset from said first and second axes, said carrier engaging one end of said bell crank; and
+means for connecting a flexible shielded cable to the other end of said bell crank; said shift lever including:
+a stamped metal handle bracket, said handle bracket being secured to said shift lever and extending below said first axis;
+an aperture disposed on said handle bracket and disposed on said first axis;
+a tube clinched in said aperture; and
+a pin received in said tube for pinning and pivotably mounting said handle bracket to said carrier.
+42. The shifter of claim 41 wherein said handle bracket further includes a post including a rubber bumper, and said carrier further includes a pair of opposing flanges, said post and said opposing flanges defining the limits of rotation of said shift lever about said first axis.
+43. An "H" pattern shifter for remotely operating a manual transmission with shielded flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthgonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.and about said first axis along the sides of the "H" pattern;
+said shift lever and said carrier being pivotable as a unit relative to said base and about said second axis to link the sides of the "H" pattern;
+means for connecting a flexible shielded cable to the shift lever below said first axis;
+a bell crank pivotably mounted on said base about an axis offset from said first and second axes, said carrier engaging one end of said bell crank; and means for connecting a flexible shielded cable to the other end of said bell crank;
+said shift lever including lockout means for locking said shift lever out of reverse position, said lockout means comprising:
+a pawl pivotably mounted in said carrier, said pawl being spring biased to a position at which it interfers with said base preventing movement of said carrier and said shift lever to the reverse position;
+an aperture in said base; and
+pawl actuating means disposed on said shift lever for pivoting said pawl out of engagement with said base and into said aperture allowing movement of said carrier and said shift lever to the reverse position.
+44. The shifter of claim 43 wherein said pawl further includes a stop for engaging said base and defining a limit of rotation for said pivotably mounted pawl.
+45. The shifter of claim 43 wherein said pawl actuating means comprises:
+a push button disposed on top of said shift lever; and
+means interconnecting said push button and said pawl for pivoting said pawl when said push button is depressed.
+46. The shifter of claim 45 wherein said means interconnecting said push button and said pawl comprises:
+a spring biased rod running the length of said shift lever, the upper said rod spring biasing said push button up, the lower end of said rod contacting said pawl; and
+a platform on said pawl for receiving the lower end of said rod, said platform being disposed on said pawl with respect to the pivot point such that downward displacement of said push button and said rod pivots said pawl out of engagement with said base.
+47. A floor mounted shifter for controlling with flexible cables the gear selection of a four speed forward mounted manual transmission on a front wheel drive of an automotive vehicle comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement; and
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement; and
+a spring detent means for improving the feel of the shifter including:
+an undulated wire spring secured to said carrier;
+a wire guided roller disposed on said shift lever for following said undulated wire spring; and
+depressions in said undulated wire to accommodate said roller when said shift lever is in a fully engaged position.
+48. In a shifter for operating a manual transmission with a pair of flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally .[.orthogona.]. .Iadd.orthogonal .Iaddend.axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said .[.carrier.]. .Iadd.base .Iaddend.about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+first means for translating rotation of said shift lever about said first axis to a cable displacement of one of said cables; and
+second means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement of said other of said cables the improvement comprising:
+said pair of flexible cables including one cable being connected to said first means and the other cable of said pair being connected to said second means, said cables being arranged substantially parallel to each other and extending in substantially straight lines from their connections to said first and second means for at least a portion of their length;
+said cable connected to the first means including a pivotal connection to said shift lever; and
+said means for translating rotation of such shift lever and said carrier to the displacement of said other cable comprising a member pivotally mounted on said base about an axis offset from said first and second axis with means for operatively connecting said carrier to said member whereby movement of said carrier is translated to pivotal movement of said member; .[.and.].
+means for securing the said other of said flexible cables to said member whereby the movement of said carrier translated to said member is thereby translated to said cable along the straight line along which the said other cable extends.Iadd.; and
+said means for connecting said carrier to said one end of said member comprising a universal connection wherein any binding is eliminated.Iaddend..
+49. The shifter of claim 48 wherein said member is a bell crank pivotally mounted on said base; means for connecting said carrier to one end of said bell crank; and means for pivotally securing the other cable to the other end of said bell crank. .[.50. The shifter of claim 48 in which the means for connecting the carrier to the said one end of said member is a universal connection wherein any binding is eliminated..]. .Iadd. 51. In a shifter for operating a manual transmission with a pair of elongated actuators comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to an actuator displacement of one of said actuators; and
+means for translating rotation of said shift lever and said carrier about said second axis to an actuator displacement of said other of said actuators the improvement comprising:
+said means for translating rotation of said shift lever and said carrier about said second axis to the actuator displacement of said other actuator comprises a member pivotably mounted on said base about an axis offset from said first and second axes;
+joint connection means for operatively connecting said carrier to said member; said joint connection means providing for articulated motion between said carrier and said member with minimal lost motion; and
+means for securing the said other of said actuators to said member. .Iaddend..Iadd. 52. The shifter of claim 51 wherein said member comprises:
+a bell crank pivotably mounted on said base;
+said joint connection disposed on one end of said bell crank; and
+means for pivotally securing one of said actuators to the other end of said bell crank. .Iaddend..Iadd. 53. The shifter of claim 51 wherein said shifter controls a four forward speed manual transmission with an "H" pattern, movements of the shift lever along the vertical sides of the "H" pattern being accommodated by rotation of said shift lever about said first axis and displacement of a first actuator, movement of said shift lever horizontally on the "H" pattern between the sides of the "H" pattern being accommodated by rotation of said shift lever and said carrier about said second axis and displacement of said second actuator. .Iaddend..Iadd. 54. A shifter for operating a manual transmission with first and second elongated actuators comprising:
+a gear selecting shift lever;
+pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to said first actuator displacement; and
+means for translating rotation of said shift lever and said carrier about said second axis to said second actuator displacement comprising:
+a bell crank pivotably mounted on said base; and
+a drive pin secured to said carrier, said guide pin being roughly parallel to said second axis and said drive pin engaging one end of said bell
+crank. .Iaddend. .Iadd. 55. An "H" pattern shifter for remotely operating a manual transmission with elongated actuators comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base and about said first axis along the sides of the "H" pattern;
+said shift lever and said carrier being pivotable as a unit relative to said base and about said second axis to link the sides of the "H" pattern;
+means for operatively connecting one of said actuators to the shift levers;
+a bell crank pivotably mounted on said base about an axis offset from said first and second axes;
+joint connection means for operatively connecting said carrier to one end of said bell crank, said joint connection means providing for articulated motion between said carrier and said one end of said bell crank with minimal lost motion; and
+means for connecting the other of said actuators to the other end of said
+bell crank. .Iaddend..Iadd. 56. The shifter of claim 55 wherein said joint connection means comprises a pin connected to said carrier, said pin extending roughly parallel to said second axis; and
+a ball and socket connection between said pin and said bell crank, whereby said bell crank may be pivoted on said base about a third axis canted with respect to said first and second orthogonal axes. .Iaddend..Iadd. 57. In a shifter for operating a manual transmission with a pair of elongated actuators comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+first means for translating rotation of said shift lever about said first axis to an actuator displacement of one of said actuators; and
+second means for translating rotation of said shift lever and said carrier about said second axis to an actuator displacement of said other of said actuators the improvement comprising:
+said pair of elongated actuators including one actuator being connected to said first means and the other actuator of said pair being connected to said second means, said actuators being arranged substantially parallel to each other and extending in substantially straight lines from their connections to said first and second means for at least a portion of their length;
+said actuator connected to the first means including a pivotal connection to said shift lever; and
+said means for translating rotation of such shift lever and said carrier to the displacement of said other actuator comprising a member pivotally mounted on said base about an axis offset from said first and second axes with joint connection means for operatively connecting said carrier to said member said joint connection means providing for articulated motion between said carrier and said member with minimal lost motion, whereby movement of said carrier is translated to pivotal movement of said member; and
+means for securing the said other of said actuators to said member whereby the movement of said carrier translated to said member is thereby translated to said actuator along the straight line along which the said
+other actuator extends. .Iaddend..Iadd. 58. The shifter of claim 57 wherein said member comprises a ball crank pivotally mounted on said base; said joint connection means disposed on one end of said bell crank; and means for pivotally securing the other actuator to the other end of said bell crank. .Iaddend..Iadd. 59. The shifter of claim 57 wherein said joint connection means comprises a universal connection wherein any binding is eliminated. .Iaddend..Iadd. 60. An "H" pattern shifter for remotely operating a manual transmission with elongated actuators comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base and about said first axis along the sides of the "H" pattern;
+said shift lever and said carrier being pivotable as a unit relative to said base and about said second axis to link the sides of the "H" pattern;
+means for operatively connecting one of said actuators to the shift lever;
+a bell crank pivotably mounted on said base about an axis displaced from said first and second axes;
+joint connection means for operatively connecting said carrier to one end of said bell crank with minimal lost motion through cooperative substantial bearing surfaces, said joint connection means translating pivotal motion of said carrier about said second axis to pivotal motion of said bell crank about said displaced axis while accommodating displacement of said carrier relative to said bell crank; and
+means for connecting the other of said actuators to the other end of said bell crank. .Iaddend..Iadd. 61. The shifter of claim 60 wherein said base comprises a stamped metal base plate including:
+means for securing the shifter to an automotive vehicle body;
+means for securing the shields of a pair of flexible shielded cables thereto; and
+a stamped metal tower secured thereto for receiving said carrier. .Iaddend..Iadd. 62. The shifter of claim 61 wherein said means for securing the shields of a pair of flexible shielded cables comprises:
+an extended portion of said stamped metal base formed at an angle generally parallel to the incident angle of the incoming cables;
+a flange disposed on the end of said extended portion, said flange extending in a direction generally orthogonal to the incident angles of the cables;
+apertures in said flange for receiving the shields of the cables; and
+means for securing the shields of the cables in said apertures. .Iaddend..Iadd. 63. The shifter of claim 60 wherein said bell crank is mounted on said base at a position displaced from the underside of said carrier and said joint connection means comprises a drive member operably connected to said carrier, said drive member extending roughly parallel to said second axis. .Iaddend..Iadd. 64. A shifter for operating a manual transmission with flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said cable displacement;
+means for translating rotation of said shift lever in said carrier about said second axis to a cable displacement, said means comprising a bell crank pivotably mounted on said base at a position displaced from the underside of said carrier;
+means for connecting said carrier to one end of said bell crank;
+means for pivotably securing a flexible shielded cable to the other end of said bell crank; and
+means for accommodating flexible shielded cables at angles incident to said first and second orthogonal axes without bending of said cables comprising:
+an elongated drive means operably connected to said carrier; and
+a universal connection engaging said elongated drive means and said bell crank. .Iaddend..Iadd. 65. In a shift lever for operating a manual transmission with a pair of flexible cables comprising:
+a gear selecting shift lever;
+a pivotable shift lever carrier;
+first and second generally orthogonal axes;
+a stationary base for mounting the transmission shifter to an automotive vehicle;
+said shift lever being pivotable relative to said base about said first axis;
+said carrier being pivotable relative to said base about said second axis;
+means for translating rotation of said shift lever about said first axis to a cable displacement of one of said cables;
+means for translating rotation of said shift lever and said carrier about said second axis to a cable displacement of said other of said cables;
+an elongated base for supporting a stamped metal tower, said tower supporting said shift lever and said carrier, said base having a forwardly extending end, said forwardly extending end including a flange extending upwardly and supporting the shields of said cables in parallel relationship one to the other in a direction roughly parallel to said second axes;
+said means for translating rotation of said shift lever and said carrier about said second axis to the cable displacement of said other cable comprising a member pivotally mounted on said base about an axis offset from said first and second axes, said member comprising a bell crank located at a position displaced from the underside of said carrier, an elongate drive means and a joint connection means extending from said carrier roughly parallel to said second axis and operatively connecting said carrier and one arm of said bell crank, and means for operatively connecting said other of said flexible cables to the other end of said bell crank. .Iaddend..Iadd. 66. The shifter of claim 65 wherein said bell crank is pivoted about an axis which is canted relative to said first and second orthogonal axes. .Iaddend..Iadd. 67. The shifter of claim 65 wherein said joint connection means comprises a universal connection extending between said carrier and said bell crank. .Iaddend.
