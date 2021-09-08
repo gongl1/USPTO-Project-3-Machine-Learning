@@ -1,3 +1,9 @@
+Summary
+This project answers the following questions:
+1. Numeric forecasting: Which uspc_class fits your application best?
+2. Categorical forecasting: Will your application be patented?
+3. NLP: Can I create new claims with Tranformers (gpt2) for my own patent? 
+
 Steps to access my presentation for projectdemo3_Machine Learning:
 
 1. Please refer to Pattern Patent_ML.pptx for my presentation of project 3 (https://github.com/gongl1/projectdemo3/blob/main/Pattern%20Patent_ML.pptx). 
