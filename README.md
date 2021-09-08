@@ -1,6 +1,6 @@
 Summary
 
-This project answers the following questions:
+This machine learning project answers the following questions:
 1. Numeric forecasting: Which uspc_class fits your application best?
 2. Categorical forecasting: Will your application be patented?
 3. NLP: Can I create new claims with Tranformers (gpt2) for my own patent? 
